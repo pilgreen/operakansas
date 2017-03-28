@@ -28,3 +28,5 @@ This April, we raised more than $9,500 during the Wichita Community Foundation's
 Opera Kansas staged "Amahl and the Night Visitors" at Century II as well as "Operetta Under The Moon" at Chamber Music at The Barn in a show that had people laughing along with the beautiful music. We also hosted a modern opera competition where we debuted a staged opera, Beneath Suspicion, that brought rave reviews from both audiences and the composer. 
 
 We thank you for your support over these 30 years and look forward to entertaining you for many more. 
+
+<!-- Trying the test again -->
