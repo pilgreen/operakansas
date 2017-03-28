@@ -1,0 +1,28 @@
+languageCode = "en-us"
+title = "Opera Kansas"
+baseURL = "http://www.operakansas.org/"
+
+[[menu.main]]
+  name = "Home"
+  weight = 1
+  url = "/"
+[[menu.main]]
+  name = "Opera Eductation"
+  identifier = "education"
+  weight = 2
+  url = "/education/"
+[[menu.main]]
+  name = "About"
+  identifier = "about"
+  weight = 3
+  url = "/about/"
+[[menu.main]]
+  name = "Auditions"
+  identifier = "auditions"
+  weight = 4
+  url = "/auditions/"
+[[menu.main]]
+  name = "Donations"
+  identifier = "donations"
+  weight = 5
+  url = "/donations/"
