@@ -7,7 +7,7 @@ baseURL = "http://www.operakansas.org/"
   weight = 1
   url = "/"
 [[menu.main]]
-  name = "Opera Eductation"
+  name = "Opera Education"
   identifier = "education"
   weight = 2
   url = "/education/"
