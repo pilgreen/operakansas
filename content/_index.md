@@ -1,30 +1,23 @@
 +++
 +++
 
-<img src="/img/menotti-banner.jpg">
+# Introducing Ashley Winters
 
-# The Telephone
+<aside style="max-width: 250px">
+  <img src="/img/ashley-winters.jpg" width="400" height="600" alt="Ashley Winters" />
+</aside>
 
-Opera Kansas invites you to an evening of opera to hear Menotti's The Telephone. Starring Benjamin and Ashley Winters, this acclaimed husband and wife singing duo perform the story of modern communication devices getting in the way of true love.
+Opera Kansas is proud to introduce Ashley Winters as the new managing Artistic Director for our 32nd season. Ashley has been performing, conducting and teaching professionally for the past 18 years. She also has extensive experience working in the technical and production fields of the music industry as a small business owner of a production company for ten years. 
 
-Friday, April 28th 2017  
-Performance at 8:00 P.M.  
-At The Petroleum Club, 100 N Broadway St #900
+Ashley is a true believer in the six mission statements of Opera Kansas. She believes the organization can provide an energetic home for new performances, in new productions, in new environments supported by classic repertoire that will provide memorable experiences for both performers and patrons. She is committed to continuing our tradition of outreach into schools, senior living facilities and the public at large while maintaining fiscal responsibility. 
 
-Entrance to the opera is free. This performance was made possible in part by Martin Pringle Law Firm.
+Ashley received her Master of Music degree in Vocal Performance with Honors from the University of Kansas and a Bachelor of Music degree in Vocal Performance from the Wheaton College Conservatory of Music. Ashley is a founding member of the nationally acclaimed choral octet Octarium and sings with the Wichita Chamber Chorale. She is also the Director of Music and Choirs at St. Stephen’s Episcopal Church, maintains a private studio and is a vocal consultant at Wichita Collegiate School.
 
 ---
 
-<img src="/img/black-white-prairie-pines.jpg">
+### This organization received funding for general operational support from the City of Wichita, the state of Kansas, the Lattner Foundation and supporters of the arts from across Kansas.
 
-# Opera Kansas Thanks You For A Landmark 30th Anniversary Season
-
-Thank you for a fantastic 30th Anniversary season. We are proud to have been named the "most-improved" arts non-profit organization this year by the Wichita Arts Council. The committee cited Opera Kansas' efforts to provide consistently good programing and reach new audiences, including underserved populations.
-
-Beginning in August 2015, we produced 59 performances, 25 in schools and 14 in senior living facilities. We took a number of productions on the road, bringing music to audiences across Kansas.
-
-This April, we raised more than $9,500 during the Wichita Community Foundation's Art Day of Giving (ArtDOG) drive. This includes an additional $2,200 award, for coming in second in our fundraising category. 
-
-Opera Kansas staged "Amahl and the Night Visitors" at Century II as well as "Operetta Under The Moon" at Chamber Music at The Barn in a show that had people laughing along with the beautiful music. We also hosted a modern opera competition where we debuted a staged opera, Beneath Suspicion, that brought rave reviews from both audiences and the composer. 
-
-We thank you for your support over these 30 years and look forward to entertaining you for many more. 
+<div class="sponsor-logos horizontal wrap around-justified layout">
+  <div><img src="/img/wichita-logo.png"></div>
+  <div><img src="/img/arts-commission-logo.png"></div>
+</div>

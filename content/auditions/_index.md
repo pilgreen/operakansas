@@ -5,12 +5,12 @@ permalink: /auditions/
 
 # Auditions
 
-Please send a headshot and resume to Artistic Director Dr. Paul Brodene Smith.
+Please send a headshot and resume to Managing Artistic Director Ashley Winters.
 
 All materials can be mailed to:
 
 <address>
-Dr. Paul Brodene Smith<br>
+Ashley Winters<br>
 P.O. Box 8811<br>
 Wichita, KS 67208<br>
 </address>

@@ -63,24 +63,26 @@ The mission of Opera Kansas is to present engaging accessible productions and ed
 
 # Current Board Members
 
-**Artistic Director**  
-DR. PAUL BRODENE SMITH
+**Managing Artistic Director**  
+ASHLEY WINTERS
 
 **President**  
-REBECCA WHITE
+VIRGINIA REVERING
+
+**Vice President**
+GINA GOUCHENOUR  
 
 **Treasurer**  
 RICHARD MORROW C.P.A.
 
 **Secretary**  
-VIRGINIA REVERING
+REBECCA WHITE*
 
 **Board of Directors**  
 STEVE BLASDALE  
 HARALD BOSCHMANN*  
-MELESA COFFEY  
 GINA GOUCHENOUR  
-LYDIA HARBUTZ  
-SHERRI PILGREEN*
+SHERRI PILGREEN*  
+BENJAMIN WINTERS, ESQ.
 
 *\*Past Presidents*

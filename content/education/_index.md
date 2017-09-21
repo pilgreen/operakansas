@@ -3,26 +3,28 @@ layout: default
 permalink: /education/
 ---
 
-**OPERA<small style="font-size: 75%">TION</small> EDUCATION** is an innovative approach that presents standard curriculum through operatic performance. For the 2016-17 school year we will be offering five differing programs, each designed for differing age groups. Our programs include a pre-show lecture, study guides, classroom activities and post-show Q & A.
+**OPERATION EDUCATION** is an innovative approach that presents standard curriculum through operatic performance. For the 2017-18 school year, we will be offering four different programs each designed for differing age groups.
 
-## Beneath Suspicion (all ages) 
+## Little Miss Muffet Goes To The Opera <small>(3 years old - 2nd grade)</small>
 
-This work is the winner Opera Kansas Zepick Modern Opera competition. It is based on a the lives of two bold 19th-century American women who crossed social, racial, and economic barriers to work together, risking their lives to fight against slavery. Elizabeth Van Lew and Mary Bowser gathered intelligence for the Union. Mary, a former slave, went to work in the Jefferson Davis Confederate White House. There she used her gift, a photographic memory, to become one of the most effective spies for the Union. Her information was so reliable that her coded messages went directly General Ulysses S. Grant. Both women were inducted into the Military Intelligence Hall of Fame in the 1990s. The initiative will touch upon aspects of history, civics, geography, science, as well as music aesthetics. This presentation can be easily incorporated into elementary and middle school social studies and music curriculum. Cost $250 
+This mini-opera is about a special day in the life of Little Miss Muffet. Through song, acting, dance, costumes and scenery, Miss Muffet meets someone who loves curds and whey as much as she does. Through Miss Muffet’s dilemma and choices, children will learn about the kindness and joy of sharing and making new friends.
 
-## Two Patriots: three moments that led to our liberty (Elementary School)
+## Beneath Suspicion <small>(5th grade and up)</small>
 
-This new Ballad Opera based on the Revolutionary Era of Colonial America was created for OK (Opera Kansas). In addition to the 25-30 minute live performance, Opera Kansas will visit your school to conduct workshops to help prepare your choir to take part in this Multidisciplinary Educational Initiative. Your school’s choir will portray members of the colonial army crossing the Delaware.  The initiative will touch upon aspects of history, civics, geography, science, as well as music aesthetics and history. This presentation can be easily incorporated into elementary social studies and music curriculum. Cost $250
+<aside class="right" style="max-width: 225px">
+  <img src="/img/beneath-suspicion.jpg" alt="Beneath Suspicion">
+</aside>
 
-## Singing and Science (Middle and High School)
+This work is the winner of the Opera Kansas Zepick Modern Opera competition. It is based on the lives of two bold 19th-century American women who crossed social, racial and economic barriers to work together, risking their lives to fight slavery. Elizabeth Van Lew and Mary Bowser gathered intelligence for the Union army. Mary, a former slave, went to work in the Jefferson Davis Confederate White House. There she used her gift, a photographic memory, to become one of the most effective spies for the Union. Her information was so reliable that her coded messages went directly to General Ulysses S. Grant. Both women were inducted into the Military Intelligence Hall of Fame in the 1990s. This opera would be an excellent enhancement to an American history class on the Civil War.
 
-Opera Kansas will present a modernized version of late 19th century farcical parlor opera and then follow that up with a masterclass for your students. After the introduction into the world of opera Dr. Smith, the Managing Artist Director, will work with your students. Your students will experience vocal technique concepts through the prism of a cause effect relationship. This presentation meets middle and high school science outcomes. Cost $200
+## The Telephone <small>(5th grade and up)</small>
 
-## “Bite-sized” opera
+This innovative adaptation of Menotti’s The Telephone shows how modern communication involving cell phones, texts and social media Tweets puts the path of true love in jeopardy.
 
-For those who want something lighter, we have four 15-20 minute Parlor Operas. We present these “bite-sized” operas at Art Fairs, Community Events and for our Senior Living Outreach programs. 
+---
 
-We have modernized these charming 19th century situation comedies to entertain the audiences of today. Parodying the anime "The black Butler" and his young master test each others will as to who should have the upper hand.  
+# Opera Kansas on tour 
 
-The young attorney Robin and his wife Fanny have opened a law practice. As of yet they have no clients. Then luck strikes twice. They both get clients on the same day. A married couple, with unusual issues are looking to separate. Who should they take as a client, the one has paid the retainer or the other, who has not? The fun begins with the debate and ends happily with “A Kiss at the Door”
+We are making plans to take opera on the road in the 2018-2019 seasons to cities across Kansas. As our new Managing Artistic Director settles into the new role this season, we will focus on two staged productions, school and senior living outreach and the open call for scores for the second Zepick Modern Opera Competition in the 2017-2018 season. 
 
-“Lischen & Fritzchen” meet on the road as they both journey home. After not having seen each other for over twenty years the brother and sister are puzzled by the instant familiarity with one another. 
+The winner of the modern opera composition is used in schools and as a touring show. The winner, chosen in summer of 2018, will debut in the fall. The show will be produced in Wichita and taken on tour in the 2018-2019 season.

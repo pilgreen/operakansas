@@ -126,16 +126,44 @@ app-drawer a {
 .content img {
   display: block;
   max-width: 100%;
+  height: auto;
+}
+
+article, hr {
+  margin: 3rem auto;
 }
 
 article:first-of-type {
   margin-top: 1rem;
 }
 
-article + article, hr {
-  margin-top: 5rem;
-  border: none;
-  border-top: 1px solid #ddd;
+aside {
+  float: left;
+  max-width: 400px;
+  margin: 0 1rem 1rem 0;
+}
+
+aside.right {
+  float: right;
+  margin: 0 0 1rem 1rem;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+small {
+  font-size: .65em;
+}
+
+/**
+ * Ephemeral styles
+ */
+
+.sponsor-logos div {
+  padding: 1rem 0;
 }
 
 /**
@@ -152,6 +180,12 @@ article + article, hr {
 
   .logo {
     height: 50px;
+  }
+
+  aside {
+    float: none;
+    max-width: 100%;
+    margin: 1rem auto;
   }
 }
 
