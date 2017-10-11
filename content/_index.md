@@ -1,6 +1,21 @@
 +++
 +++
 
+<aside class="right trial-by-jury">
+  <img src="/img/trial-by-jury.jpg" width="557" height="315">
+</aside>
+
+# “Trial by Jury”
+
+Opera Kanas invites you to "Trial by Jury", a comic opera by Gilbert & Sullivan. Enjoy the tale of a jilted bride trying to find justice in court. Find out if the judge will give this brokenhearted plaintiff the relief she seeks.
+
+**November 4th at 5:30 p.m., 7:00 p.m. and 8:30 p.m.**  
+Historic Sedgwick County Court House  
+located at [510 N Main, Wichita, KS 67203](https://www.google.com/maps?q=510+N+Main,+Wichita,+KS+67203&entry=gmail&source=g)  
+Ticket are $25, $18 for seniors & students with ID $18
+
+---
+
 # Introducing Ashley Winters
 
 <aside style="max-width: 250px">
