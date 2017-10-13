@@ -14,6 +14,11 @@ Historic Sedgwick County Court House
 located at [510 N Main, Wichita, KS 67203](https://www.google.com/maps?q=510+N+Main,+Wichita,+KS+67203&entry=gmail&source=g)  
 Ticket are $25, $18 for seniors & students with ID $18
 
+<p>
+  <link href="https://fonts.googleapis.com/css?family=Asap:700" rel="stylesheet">
+  <a href="http://www.brownpapertickets.com/event/3077709" style="font: bold 18px 'Asap', sans-serif; color: #e14726;">Buy tickets for Trial by Jury presented by Opera Kansas</a>
+</p>
+
 ---
 
 # Introducing Ashley Winters
