@@ -23,16 +23,6 @@ Throughout its history, well-known leaders of Wichita have led Opera Kansas. For
 
 Today, Opera Kansas produces a series of modern and rarely performed operas throughout the state. Additionally, the opera company works with the K-12 school system to create music educational programs that fit with in the core history and literature curriculum. Opera Kansas is also committed to making opera accessible by taking performances into the community, singing in retirement homes, parks and public places in downtown Wichita.
 
-In 2014 the company staged an opera, Comedy On The Bridge, outdoors in College Hill Park that was free and open to the public. They hosted an Oktoberfest Liederabend showcasing traditional German vocal art songs and are performing a number of short concerts as part of Wichita's Final Fridays.
-
-Opera Kansas first staged the Christmas tale of Amahl and the Night Visitors in 1991 and has done so almost every year since. This is an opera about the three wise men who are searching for the Christ child, but change the life of a poor shepherd boy along the way. It has become an annual community favorite to kick off the holiday season. This year, the show performed to a nearly sold out crowd at Century II's Mary Jane Teall Theater with great reviews.
-
-Opera Kansas is also committed to music education in schools across the state. Short opera programs on topics such as Opera 101 and Romeo and Juliette have been performed for K-12 students and in 2015 Opera Kansas will add a show Traveling the Underground Railroad with ten performances scheduled this February. Our artistic director works closely with teachers to develop programs that bring to life subjects that students study in the classroom.
-
-2015 holds the launch of a new program bringing opera into retirement communities. With the goal of bringing the power of opera to audiences in a non-traditional venue, Opera Kansas is scheduled to perform a short opera, Dr. Miracle, at eight senior living facilities in January.
-
-Opera Kansas will return to Wichita's Riverfest this summer with The Island of Tulipatan. The production will mark a return to the summer festival where thousands of Kansans will be able to enjoy a modern opera based on local Kansas history.
-
 After thirty years, Opera Kansas is still committed to bringing the power of high quality opera to people living in a modern world. The opera company is grateful for support from patrons and audiences across Kansas.
 
 ---
@@ -82,6 +72,7 @@ REBECCA WHITE*
 STEVE BLASDALE  
 HARALD BOSCHMANN*  
 GINA GOUCHENOUR  
+J. MATTHEW LEAVITT, ESQ.  
 SHERRI PILGREEN*  
 BENJAMIN WINTERS, ESQ.
 
