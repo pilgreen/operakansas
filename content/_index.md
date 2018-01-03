@@ -1,23 +1,40 @@
 +++
 +++
 
-<aside class="right trial-by-jury">
-  <img src="/img/trial-by-jury.jpg" width="557" height="315">
-</aside>
+# Opera Kansas Presents the Zepick Modern Opera Composition Contest
 
-# “Trial by Jury”
+A competition for a new opera suitable for children from 3rd to 5th grade, or eight to ten years old.
 
-Opera Kanas invites you to "Trial by Jury", a comic opera by Gilbert & Sullivan. Enjoy the tale of a jilted bride trying to find justice in court. Find out if the judge will give this brokenhearted plaintiff the relief she seeks.
+**Cast Requirements:** Two to four adult singers  
 
-**November 4th at 5:30 p.m., 7:00 p.m. and 8:30 p.m.**  
-Historic Sedgwick County Court House  
-located at [510 N Main, Wichita, KS 67203](https://www.google.com/maps?q=510+N+Main,+Wichita,+KS+67203&entry=gmail&source=g)  
-Ticket are $25, $18 for seniors & students with ID $18
+**Accompaniment:** Piano with optional obligato instruments  
 
-<p>
-  <link href="https://fonts.googleapis.com/css?family=Asap:700" rel="stylesheet">
-  <a href="http://www.brownpapertickets.com/event/3077709" style="font: bold 18px 'Asap', sans-serif; color: #e14726;">Buy tickets for Trial by Jury presented by Opera Kansas</a>
-</p>
+**Length:** 30 to 35 minutes  
+
+**Libretto Requirements:** An opera with a focus on the Science, Technology, Engineering, Art and
+Math curriculum is preferred. A history based subject would also be
+appropriate. Special consideration will be given to operas with Kansas
+ties. Subject matter must be appropriate to fit in an elementary school
+setting.
+
+The ideal opera will be one that includes participation from the
+classroom; for example, a short chorus or percussion section to be
+prepared by students ahead of time or other audience participation
+prepared during the performance.
+
+**Award and Performance Restrictions:** The winner of the STEAM Opera
+Composition Contest will receive a cash prize of $2,000.00. Opera Kansas
+will retain all performance rights to the show for a period of five years.
+Deadlines: March 1, 2018. Submit the following:
+
+1. a recording (MIDI is acceptable)
+2. 1 complete PDF Score
+3. 1 “BLIND” PDF score free of all identifiers of the composer
+
+Electronic submission are preferred and accepted via [operakansas@gmail.com](mailto:operakansas@gmail.com)  
+By post to P.O. Box 8811, Wichita KS, 67208
+
+**Award Announcement:** April 30, 2018
 
 ---
 
