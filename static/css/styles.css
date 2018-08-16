@@ -53,6 +53,11 @@ li {
   margin: 0.5rem 0;
 }
 
+figure {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
 /*
  * Header
  */

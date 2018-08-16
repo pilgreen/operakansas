@@ -1,40 +1,33 @@
 +++
 +++
 
-# Opera Kansas Presents the Zepick Modern Opera Composition Contest
+<figure>
+  <img src="/img/postcard-front-kaleidascope.jpg">
+</figure>
 
-A competition for a new opera suitable for children from 3rd to 5th grade, or eight to ten years old.
+# World Premier Performance and Gala Reception
 
-**Cast Requirements:** Two to four adult singers  
+Saturday, August 25, 2018  
+7:00-9:00 PM  
+Wichita Center for Performing Arts  
+9112 E Central Ave, Wichita, KS 67206  
+$25.00 for GA and $18.00 for Students and Seniors
 
-**Accompaniment:** Piano with optional obligato instruments  
+Composer Anthony R. Green will be present for the first public performance of his new opera. This delightful opera features the talents of Chy Billings III in the title role and Georgeanne Yehling and Leah Heathcote as the inquisitive narrators.  Accompanied by pianist Sun Kim and assisted by a group of audience volunteers, Mr. Brewster’s Invigorating Invention brings to life the history, science, technology, engineering, art and math of the ever popular toy, the KALEIDOSCOPE. An opera for children young and old, Mr. Brewster’s Invigorating Invention is sure to bring joy to everyone!
 
-**Length:** 30 to 35 minutes  
+[Buy Tickets](https://www.brownpapertickets.com/event/3593464) for Mister Brewster’s Invigorating Invention.
 
-**Libretto Requirements:** An opera with a focus on the Science, Technology, Engineering, Art and
-Math curriculum is preferred. A history based subject would also be
-appropriate. Special consideration will be given to operas with Kansas
-ties. Subject matter must be appropriate to fit in an elementary school
-setting.
+---
 
-The ideal opera will be one that includes participation from the
-classroom; for example, a short chorus or percussion section to be
-prepared by students ahead of time or other audience participation
-prepared during the performance.
+# Opera Kansas is proud to announce the winner of the 2018 Zepick Modern Opera Competition
 
-**Award and Performance Restrictions:** The winner of the STEAM Opera
-Composition Contest will receive a cash prize of $2,000.00. Opera Kansas
-will retain all performance rights to the show for a period of five years.
-Deadlines: March 1, 2018. Submit the following:
+Opera Kansas is proud to announce Anthony Green’s Mr. Brewster’s Invigorating Invention as the winner of the the Zepick Modern Opera Competition. The competition seeks short operas in English that have a STEAM theme (Science, Technology, Engineering, Art and Mathematics)  that can be used in the Kansas public school system. The Opera Kansas production will be the world premiere of this fascinating new opera that focuses on science and the composer behind the invention.
 
-1. a recording (MIDI is acceptable)
-2. 1 complete PDF Score
-3. 1 “BLIND” PDF score free of all identifiers of the composer
+Mr. Brewster’s Invigorating Invention is about the history and science of the kaleidoscope. Sir David Brewster was a Scottish physicist who invented the kaleidoscope in 1816. Soon millions of kaleidoscopes were in homes across the world. He has been called, " the father of modern experimental optics." This production will use creative digital media in bringing the science and colors of the kaleidoscope to life. 
 
-Electronic submission are preferred and accepted via [operakansas@gmail.com](mailto:operakansas@gmail.com)  
-By post to P.O. Box 8811, Wichita KS, 67208
+The music of Anthony R. Green (b. 1984) ranges from works for solo instruments and voice to large scale ensemble pieces and multimedia productions. His works have been performed and featured in festivals in over 20 countries, as well as broadcast on national, international, and online streaming radio. An active pianist, Green has worked with student and professional composers alike for premieres or performances of new music. He has performed across the USA, as well as in the United Kingdom, the Netherlands, France, Cyprus, Israel, Germany, and South Korea.
 
-**Award Announcement:** April 30, 2018
+When not composing or performing, Green is the associate artistic director of Castle of our Skins, a Boston-based concert and education series organization dedicated to celebrating Black artistry through music. He received a Bachelor of Music degree from Boston University, and a Master of Music degree from the New England Conservatory, and has been a resident artist at Escape to Create (Florida), the Virginia Center for the Creative Arts, the Kimmel Harding Nelson Center for the Arts (Nebraska), the Visby International Centre for Composers (Sweden), Space/Time at Cove Park (Scotland), atelier:performance (Germany), and the Bemis Center for Contemporary Arts (Nebraska).
 
 ---
 
