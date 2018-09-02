@@ -1,21 +1,26 @@
 +++
 +++
 
-<figure>
-  <img src="/img/postcard-front-kaleidascope.jpg">
-</figure>
+# Opera Kansas 2018-2019 Season
 
-# World Premier Performance and Gala Reception
+<h2 style="padding-top: 2rem;">FANTASTIC MR. FOX <small>by Tobias Picker</small></h2>
 
-Saturday, August 25, 2018  
-7:00-9:00 PM  
-Wichita Center for Performing Arts  
-9112 E Central Ave, Wichita, KS 67206  
-$25.00 for GA and $18.00 for Students and Seniors
+Saturday September 22, 2018  
+7:00 PM
 
-Composer Anthony R. Green will be present for the first public performance of his new opera. This delightful opera features the talents of Chy Billings III in the title role and Georgeanne Yehling and Leah Heathcote as the inquisitive narrators.  Accompanied by pianist Sun Kim and assisted by a group of audience volunteers, Mr. Brewster’s Invigorating Invention brings to life the history, science, technology, engineering, art and math of the ever popular toy, the KALEIDOSCOPE. An opera for children young and old, Mr. Brewster’s Invigorating Invention is sure to bring joy to everyone!
+Advanced Learning Library  
+711 W 2nd Street  
+Wichita KS 67203
 
-[Buy Tickets](https://www.brownpapertickets.com/event/3593464) for Mister Brewster’s Invigorating Invention.
+### [Buy Tickets Now](https://www.brownpapertickets.com/event/3596777)
+
+
+<h2 style="padding-top: 2rem;">AMAHL AND THE NIGHT VISITORS <small>by Gian Carlo Menotti</small></h2>
+
+Sunday, January 6, 2019  
+3:00 PM
+
+### [Buy Tickets Now](https://www.brownpapertickets.com/event/3596780)
 
 ---
 
