@@ -3,6 +3,10 @@
 
 # Opera Kansas 2018-2019 Season
 
+<figure>
+  <img src="/img/fantastic-fox.jpg">
+</figure>
+
 <h2 style="padding-top: 2rem;">FANTASTIC MR. FOX <small>by Tobias Picker</small></h2>
 
 Saturday September 22, 2018  
