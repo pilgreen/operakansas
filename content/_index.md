@@ -9,6 +9,12 @@
 
 <h2 style="padding-top: 2rem;">FANTASTIC MR. FOX <small>by Tobias Picker</small></h2>
 
+_Fantastic Mr. Fox_ is a story about good vs. evil, animal vs. human, and nature vs. technology. With the help of the other creatures of the forest, Mr. Fox must outwit his enemies to keep his family safe. Mr. Fox finds that he may have stolen one hen too many from the henhouse, as the meanest farmers anywhere — Boggis, Bunce, and Bean (one fat, one short, one lean) — conspire to rid their lands of the Fox family once and for all. The Foxes are able to evade capture with the help of some woodland friends, leaving the farmers laying in wait while the animals help themselves to the fruit of the farmers’ lands. Having had their revenge, the animals return for a sumptuous feast far from danger in the Foxes‘ new home, while the farmers continue to wait in the rain.
+
+This performance has been graciously underwritten in part by Hulnick, Stang, Gering & Leavitt PA.
+
+Opera Kansas is supported in part by the City of Wichita and the Kansas Creative Arts Industries Commission, which receives support from the National Endowment for the Arts, a federal agency. 
+
 Saturday September 22, 2018  
 7:00 PM
 
