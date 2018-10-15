@@ -62,7 +62,7 @@ Ashley received her Master of Music degree in Vocal Performance with Honors from
 
 ### This organization received funding for general operational support from the City of Wichita, the state of Kansas, the Lattner Foundation and supporters of the arts from across Kansas.
 
-<div class="sponsor-logos horizontal wrap around-justified layout">
+<div class="sponsor-logos">
   <div><img src="/img/wichita-logo.png"></div>
   <div><img src="/img/arts-commission-logo.png"></div>
 </div>

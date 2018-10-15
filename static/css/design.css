@@ -1,0 +1,193 @@
+/**
+ * Atoms
+ */
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
+
+/* Atoms */
+
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  font-family: "Raleway", Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+}
+
+h1 {
+  font-size: 1.85rem;
+}
+
+h3 {
+  color: #757575;
+}
+
+p, li {
+  line-height: 1.45rem;
+}
+
+a {
+  color: inherit;
+}
+
+li {
+  margin: 0.5rem 0;
+}
+
+figure {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+hr {
+  margin: 3rem auto;
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+aside {
+  float: left;
+  max-width: 400px;
+  margin: 0 1rem 1rem 0;
+}
+
+aside.right {
+  float: right;
+  margin: 0 0 1rem 1rem;
+}
+
+small {
+  font-size: .65em;
+}
+
+/* Molecules */
+
+.flag {
+  height: 60px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  border-bottom: 1px solid #ddd;
+  z-index: 2;
+}
+
+.logo {
+  align-self: stretch;
+  padding: 5px 0.75rem;
+}
+
+.logo img {
+  height: 50px;
+}
+
+.hamburger {
+  padding: 0.75rem;
+  display: none;
+}
+
+.overlay {
+  display: none;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+}
+
+nav a {
+  text-transform: uppercase;
+  padding: 0.75rem;
+  color: #313131;
+  font-weight: bold;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+/* Mobile swap */
+@media (max-width: 600px) {
+  .hamburger {
+    display: block;
+    cursor: pointer;
+  }
+
+  nav {
+    position: fixed;
+    top: 61px;
+    left: 0;
+    height: 100vh;
+    width: 300px;
+    flex-direction: column;
+    align-items: stretch;
+    background-color: white;
+    border-right: 1px solid #ddd;
+    transform: translateX(-301px);
+    transition: transform 0.4s ease;
+  }
+
+  body.nav-out nav {
+    transform: translateX(0);
+  }
+
+  .content:before {
+    content: "";
+    position: fixed;
+    top: 61px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.8);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity .3s ease;
+  }
+
+  body.nav-out .content:before {
+    opacity: 1;
+    pointer-events: all;
+  }
+
+  nav a {
+    padding: 1.25rem;
+    border-bottom: 1px solid #ddd;
+    font-weight: normal;
+  }
+}
+
+a.active {
+  color: #e14726;
+}
+
+.content {
+  padding: calc(60px + 1rem) 1rem 1rem;
+  max-width: 750px;
+  margin: 0 auto;
+  z-index: 1;
+}
+
+.content img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.sponsor-logos {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sponsor-logos div {
+  padding: 0.75rem;
+}
+

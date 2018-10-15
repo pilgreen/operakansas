@@ -1,6 +1,6 @@
 ---
-layout: default
-permalink: /donate/
+title: Donate to Opera Kansas
+description: Opera Kansas is one of the best investments you can make with your charitable donation. Your dollars support local performers that successfully work to develop new audiences for this powerful art form.
 ---
 
 # Donations
@@ -14,4 +14,5 @@ Your donation could sponsor an entire production or a portion thereof. Please cl
 We would like to acknowledge your gifts by including your name in our programs and other promotional materials. If you would prefer that your kind donation remain anonymous, please indicate your preference on your check. 
 
 <a href="https://mkt.com/opera-kansas" class="sq-embed-button" data-style-background-color="#bf0010" data-style-width="160px" data-style-height="46px">DONATE</a>
+
 <script src="https://cdn.sq-api.com/market/embed.js" charset="utf-8"></script>

@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /education/
+title: Opera Kansas in Education
 ---
 
 **OPERATION EDUCATION** is an innovative approach that presents standard curriculum through operatic performance. For the 2017-18 school year, we will be offering four different programs each designed for differing age groups.

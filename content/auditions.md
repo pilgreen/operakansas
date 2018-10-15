@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /auditions/
+title: Opera Kansas Auditions
 ---
 
 # Auditions
