@@ -21,12 +21,12 @@ self.addEventListener('install', e => {
 self.addEventListener('fetch', e => {
   e.respondWith(
     caches.open(cacheName).then(cache => {
-      let fresh = fetch(e.request).then(response => {
-        cache.put(e.request, response.clone());
-        return response;
-      });
+      return cache.match(e.request).then(response => {
+        let fresh = fetch(e.request).then(response => {
+          cache.put(e.request, response.clone());
+          return response;
+        });
 
-      return caches.match(e.request).then(response => {
         return response || fresh;
       });
     })
