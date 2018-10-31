@@ -11,24 +11,35 @@ self.addEventListener('install', e => {
         '/donations/',
         '/css/design.css',
         '/js/site.js',
-        '/js/analytics.js'
+        '/js/analytics.js',
+        '/img/opera_logo.png'
       ]);
     })
   );
 });
 
-// RETURN CACHE AND STORE NEW VERSION
+/**
+ * Hit the network but if it takes too long serve the cached backup
+ */
+
 self.addEventListener('fetch', e => {
   e.respondWith(
     caches.open(cacheName).then(cache => {
-      return cache.match(e.request).then(response => {
-        let fresh = fetch(e.request).then(response => {
-          cache.put(e.request, response.clone());
-          return response;
-        });
-
-        return response || fresh;
-      });
+      return timeout(2000, fetch(e.request)).then(response => {
+        cache.put(e.request, response.clone());
+        return response;
+      }).catch(() => {
+        return caches.match(e.request)
+      })
     })
-  );
+  )
 });
+
+function timeout(ms, promise) {
+  return new Promise((resolve, reject) => {
+    setTimeout(() => {
+      reject(new Error("timeout"))
+    }, ms)
+    promise.then(resolve, reject)
+  })
+}
