@@ -14,5 +14,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/donations.md
 - content/auditions.md
 - content/_index.md
