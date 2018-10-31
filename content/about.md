@@ -3,8 +3,6 @@ title: About Opera Kansas
 description: ''
 
 ---
-#### edited again
-
 # About
 
 ## History
