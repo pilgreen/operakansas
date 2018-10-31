@@ -1,6 +1,6 @@
 +++
-+++
 
++++
 # Opera Kansas 2018-2019 Season
 
 <figure>
