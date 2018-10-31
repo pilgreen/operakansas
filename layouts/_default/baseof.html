@@ -9,8 +9,8 @@
     <meta name="mobile-web-app-capable" content="yes">
 
     <title>{{ default .Site.Title .Title }}</title>
-    <meta name="description" content="{{ .Param "description" }}">
-    <meta name="keywords" content="{{ .Param "keywords" }}">
+    <meta name="description" content="{{ .Description | default .Site.Params.description }}">
+    <link rel="alternate" type="application/rss+xml" href="{{ .Site.RSSLink }}">
 
     <link rel="stylesheet" href="/css/design.css">
   </head>

@@ -2,6 +2,8 @@ languageCode = "en-us"
 title = "Opera Kansas"
 baseURL = "http://www.operakansas.org/"
 
+disableKinds = ["taxonomyTerm"]
+
 [[menu.main]]
   name = "Opera Education"
   identifier = "education"
@@ -25,4 +27,3 @@ baseURL = "http://www.operakansas.org/"
 
 [params]
   description = "Opera Kansas produces a series of modern and rarely performed operas throughout the state. Additionally, the opera company works with the K-12 school system to create music educational programs that fit with in the core history and literature curriculum. Opera Kansas is also committed to making opera accessible by taking performances into the community, singing in retirement homes, parks and public places in downtown Wichita."
-  keywords = "opera, child, kid, kansas, wichita"
