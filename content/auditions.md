@@ -1,7 +1,7 @@
 ---
 title: Opera Kansas Auditions
----
 
+---
 # Auditions
 
 Please send a headshot and resume to Managing Artistic Director Ashley Winters.
