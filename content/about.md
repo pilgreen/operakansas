@@ -1,7 +1,7 @@
 ---
 title: About Opera Kansas
----
 
+---
 # About
 
 ## History
