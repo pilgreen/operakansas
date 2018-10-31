@@ -1,7 +1,7 @@
 ---
-label: Opera Kansas in Education
-hide_body: 
-is_partial: 
+label: Standard page
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
