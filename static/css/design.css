@@ -132,11 +132,11 @@ nav a {
     background-color: white;
     border-right: 1px solid #ddd;
     transform: translateX(-301px);
-    transition: transform 0.4s ease;
   }
 
   body.nav-out nav {
     transform: translateX(0);
+    transition: transform 0.4s ease;
   }
 
   .content:before {
