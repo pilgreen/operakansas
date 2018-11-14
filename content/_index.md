@@ -1,7 +1,6 @@
 ---
 title: Opera Kansas Homepage
 description: ''
-draft: true
 
 ---
 ### ![](/uploads/AmahlFacebookBanner.jpg)
