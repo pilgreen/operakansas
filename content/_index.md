@@ -1,5 +1,5 @@
 ---
-title: Opera Kansas Homepage
+title: Opera Kansas
 description: ''
 
 ---
