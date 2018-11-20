@@ -23,7 +23,7 @@ Throughout its history, well-known leaders of Wichita have led Opera Kansas. For
 
 Today, Opera Kansas produces a series of modern and rarely performed operas throughout the state. Additionally, the opera company works with the K-12 school system to create music educational programs that fit with in the core history and literature curriculum. Opera Kansas is also committed to making opera accessible by taking performances into the community, singing in retirement homes, parks and public places in downtown Wichita.
 
-After thirty years, Opera Kansas is still committed to bringing the power of high quality opera to people living in a modern world. The opera company is grateful for support from patrons and audiences across Kansas..
+After thirty years, Opera Kansas is still committed to bringing the power of high quality opera to people living in a modern world. The opera company is grateful for support from patrons and audiences across Kansas.
 
 ***
 
