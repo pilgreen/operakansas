@@ -3,13 +3,13 @@ title: About Opera Kansas
 description: ''
 
 ---
-# About
+# About Opera Kansas 
 
 ***
 
-***
+Opera Kansas produces a series of modern and rarely performed operas throughout the state. Additionally, the opera company works with the K-12 school system to create music educational programs that fit with in the core history and literature curriculum. Opera Kansas is also committed to making opera accessible by taking performances into the community, singing in retirement homes, parks and unusual venues throughout Wichita and southern Kansas.
 
-# Our mission
+After thirty years, Opera Kansas is still committed to bringing the power of high quality opera to people living in a modern world. The opera company is grateful for support from patrons and audiences across Kansas.Our mission
 
 Opera Kansas brings innovative, affordable, and accessible opera to communities and schools throughout Kansas, while providing emerging musicians artistic opportunities in a respectful, professional environment.
 
@@ -78,9 +78,3 @@ Some of the operas presented were _Arabian Nights at the Opera, Gianni Schicihi,
 Over the past three decades, the company has brought many national and international opera performers to Wichita audiences. Some of these artists include Joyce DiDinato, Samuel Ramey, Nicholas Saverine, Charlene Ayers, Brian Frutiger, Michael Nansel and a host of other high quality performers that reflect the organizations' mission.
 
 Throughout its history, well-known leaders of Wichita have led Opera Kansas. Foremost was Burton Pell who served as president and producer for many years. Other community leaders have been Willard and Jean Garvey, Mary Koch, Dan and Shoko Severt, Harald Boschmann, Delmar Klocke, Al Buck, Van and Virginia Fiser, Dr. Walter Myers, Dr. George and Mary Jane Gibson, Dr. Jerold and Diane Leisy, and Sherri Pilgreen.
-
-## Opera Kansas Today
-
-Today, Opera Kansas produces a series of modern and rarely performed operas throughout the state. Additionally, the opera company works with the K-12 school system to create music educational programs that fit with in the core history and literature curriculum. Opera Kansas is also committed to making opera accessible by taking performances into the community, singing in retirement homes, parks and unusual venues throughout Wichita and southern Kansas.
-
-After thirty years, Opera Kansas is still committed to bringing the power of high quality opera to people living in a modern world. The opera company is grateful for support from patrons and audiences across Kansas.
