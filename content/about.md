@@ -3,13 +3,15 @@ title: About Opera Kansas
 description: ''
 
 ---
-# About Opera Kansas 
+# About Opera Kansas
 
 ***
 
 Opera Kansas produces a series of modern and rarely performed operas throughout the state. Additionally, the opera company works with the K-12 school system to create music educational programs that fit with in the core history and literature curriculum. Opera Kansas is also committed to making opera accessible by taking performances into the community, singing in retirement homes, parks and unusual venues throughout Wichita and southern Kansas.
 
-After thirty years, Opera Kansas is still committed to bringing the power of high quality opera to people living in a modern world. The opera company is grateful for support from patrons and audiences across Kansas.Our mission
+After thirty years, Opera Kansas is still committed to bringing the power of high quality opera to people living in a modern world. The opera company is grateful for support from patrons and audiences across Kansas.
+
+# Our Mission
 
 Opera Kansas brings innovative, affordable, and accessible opera to communities and schools throughout Kansas, while providing emerging musicians artistic opportunities in a respectful, professional environment.
 
