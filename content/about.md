@@ -1,6 +1,11 @@
 ---
 title: About Opera Kansas
 description: ''
+menu:
+  main:
+    name: Our Story
+    identifier: about
+    weight: 5
 
 ---
 # About Opera Kansas

@@ -13,11 +13,6 @@ name = "Auditions"
 url = "/auditions/"
 weight = 3
 [[menu.main]]
-identifier = "about"
-name = "Our Story"
-url = "/ourstory/"
-weight = 5
-[[menu.main]]
 identifier = "education"
 name = "OPERAtion EDucation"
 url = "/education/"
