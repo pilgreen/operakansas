@@ -7,7 +7,7 @@ description: ''
 
 Opera Kansas' 30th anniversary performance of _Amahl and the Night Visitors_ was enjoyed by the enthusiastic audience filling Church of the Magdalen on the afternoon of January 6th. The audience was treated to the solid performance that has made _Amahl and the Night Visitors_ a Wichita and Opera Kansas tradition for three decades.
 
-![Katelyn Mattson-Levy](/uploads/Amahl Mother.jpg "Amahl's Mother")![](/uploads/Amahl.jpg)![From L-R J. Matthew Leavitt, Justin Petersen, Steve Kimball and Benjamin Winters](/uploads/Amahl Kings.jpg "The Kings and Page")![](/uploads/Amahl Chorus.jpg)![](/uploads/Amahl Chorus 2.jpg)
+![Katelyn Mattson-Levy](/uploads/Amahl Mother.jpg "Amahl's Mother")    ![](/uploads/Amahl.jpg)![From L-R J. Matthew Leavitt, Justin Petersen, Steve Kimball and Benjamin Winters](/uploads/Amahl Kings.jpg "The Kings and Page")![](/uploads/Amahl Chorus.jpg)![](/uploads/Amahl Chorus 2.jpg)
 
 # Current News
 
