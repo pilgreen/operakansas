@@ -8,7 +8,9 @@ weight = 4
 +++
 # Ashley Winters, Managing Artistic Director
 
-![](/uploads/Ashley Winters Head Shot.jpg) Ashley Winters as the managing Artistic Director. Ashley has been performing, conducting and teaching professionally for the past 20 years. She also has extensive experience working in the technical and production fields of the music industry as a small business owner of a production company for ten years.
+![](/uploads/Ashley Winters Head Shot small.jpg)
+
+Ashley Winters became the managing Artistic Director in 2017. Ashley has been performing, conducting and teaching professionally for the past 20 years. She also has extensive experience working in the technical and production fields of the music industry as a small business owner of a production company for ten years.
 
 Ashley is a true believer in the mission statement and goals of Opera Kansas. She believes the organization can provide an energetic home for new performances, in new productions, in new environments supported by classic repertoire that will provide memorable experiences for both performers and patrons. She is committed to continuing our tradition of outreach into schools, senior living facilities and the public at large while maintaining fiscal responsibility.
 
