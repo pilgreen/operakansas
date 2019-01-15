@@ -7,17 +7,17 @@ description: ''
 
 Opera Kansas' 30th anniversary performance of _Amahl and the Night Visitors_ was enjoyed by the enthusiastic audience filling Church of the Magdalen on the afternoon of January 6th. The audience was treated to the solid performance that has made _Amahl and the Night Visitors_ a Wichita and Opera Kansas tradition for three decades.
 
-![Katelyn Mattson-Levy](/uploads/Amahl Mother.jpg "Amahl's Mother")![](/uploads/Amahl.jpg)![From L-R J. Matthew Leavitt, Justin Petersen, Steve Kimball and Benjamin Winters](/uploads/Amahl Kings.jpg "The Kings and Page")![](/uploads/Amahl Chorus.jpg)![](/uploads/Amahl Chorus 2.jpg)[Download File](https://www.facebook.com/operakansas/videos/396180867818986/ "Amahl Quartet Video")
+![Katelyn Mattson-Levy](/uploads/Amahl Mother.jpg "Amahl's Mother")![](/uploads/Amahl.jpg)![From L-R J. Matthew Leavitt, Justin Petersen, Steve Kimball and Benjamin Winters](/uploads/Amahl Kings.jpg "The Kings and Page")![](/uploads/Amahl Chorus.jpg)![](/uploads/Amahl Chorus 2.jpg)
 
 # Current News
 
-### Opera Kansas welcomes new President of the Board of Directors
+### **Opera Kansas welcomes new President of the Board of Directors**
 
 Opera Kansas begins 2019 with a new board president, J. Matthew Leavitt. Mr. Leavitt is excited to step into this new role with energy and determination to ensure the future of Opera Kansas. Matt has been a part of the Wichita art's community for decades. He has sung in several roles for Opera Kansas, most recently as the Page in _Amahl and the Night Visitors_ and is well lauded for his performances in the last several Wichita Bar Shows. Matt is an attorney in Wichita and is a partner at Hulnick, Stang, Gerring, and Leavitt, P.A. Opera Kansas looks forward to Mr. Leavitt's leadership.
 
 Opera Kansas would also like to thank outgoing president, Virginia Revering. Her steady leadership and willingness to do whatever is needed leaves big shoes to fill. We are thankful that Virginia will remain on the board and we look forward to her next book that is scheduled to be published soon!
 
-### Opera Kansas is proud to announce the winner of the 2018 Zepick Modern Opera Competition
+### **Opera Kansas is proud to announce the winner of the 2018 Zepick Modern Opera Competition**
 
 Opera Kansas is proud to announce Anthony Green’s Mr. Brewster’s Invigorating Invention as the winner of the the Zepick Modern Opera Competition. The competition seeks short operas in English that have a STEAM theme (Science, Technology, Engineering, Art and Mathematics)  that can be used in the Kansas public school system. The Opera Kansas production will be the world premiere of this fascinating new opera that focuses on science and the composer behind the invention.
 
