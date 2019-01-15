@@ -1,29 +1,30 @@
+baseURL = "http://www.operakansas.org/"
+disableKinds = ["taxonomyTerm"]
 languageCode = "en-us"
 title = "Opera Kansas"
-baseURL = "http://www.operakansas.org/"
-
-disableKinds = ["taxonomyTerm"]
-
 [[menu.main]]
-  name = "Opera Education"
-  identifier = "education"
-  weight = 2
-  url = "/education/"
+name = "Our People"
+url = "/ourpeople/"
+weight = 5
 [[menu.main]]
-  name = "About"
-  identifier = "about"
-  weight = 3
-  url = "/about/"
+identifier = "donations"
+name = "Donations"
+url = "/donations/"
+weight = 4
 [[menu.main]]
-  name = "Auditions"
-  identifier = "auditions"
-  weight = 4
-  url = "/auditions/"
+identifier = "auditions"
+name = "Auditions"
+url = "/auditions/"
+weight = 3
 [[menu.main]]
-  name = "Donations"
-  identifier = "donations"
-  weight = 5
-  url = "/donations/"
-
+identifier = "about"
+name = "Our Story"
+url = "/ourstory/"
+weight = 2
+[[menu.main]]
+identifier = "education"
+name = "Opera Education"
+url = "/education/"
+weight = 1
 [params]
-  description = "Opera Kansas produces a series of modern and rarely performed operas throughout the state. Additionally, the opera company works with the K-12 school system to create music educational programs that fit with in the core history and literature curriculum. Opera Kansas is also committed to making opera accessible by taking performances into the community, singing in retirement homes, parks and public places in downtown Wichita."
+description = "Opera Kansas produces a series of modern and rarely performed operas throughout the state. Additionally, the opera company works with the K-12 school system to create music educational programs that fit with in the core history and literature curriculum. Opera Kansas is also committed to making opera accessible by taking performances into the community, singing in retirement homes, parks and public places in downtown Wichita."
