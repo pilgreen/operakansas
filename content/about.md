@@ -29,35 +29,6 @@ To maintain a fiscally responsible opera company of artistic excellence.
 
 ***
 
-# Current Board Members
-
-**Managing Artistic Director**  
-ASHLEY WINTERS
-
-**President**  
-J. MATTHEW LEAVITT, ESQ
-
-**Vice President**
-GINA GOUCHENOUR
-
-**Treasurer**  
-RICHARD MORROW C.P.A.
-
-**Secretary**  
-REBECCA WHITE*
-
-**Board of Directors**  
-CHY BILLINGS, III  
-STEVE BLASDALE  
-HARALD BOSCHMANN*  
-KRISTIN CHISHAM  
-SHERRI PILGREEN*  
-MATTHEW SCHLONEGER, DMA  
-VIRGINIA REVERING*  
-BENJAMIN WINTERS, ESQ.
-
-_*Past Presidents_
-
 # Our values
 
 Integrity  
