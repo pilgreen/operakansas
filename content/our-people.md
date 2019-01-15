@@ -1,7 +1,6 @@
 +++
 date = "2019-01-15T01:44:06+00:00"
 description = ""
-draft = true
 title = "Our People"
 
 +++
