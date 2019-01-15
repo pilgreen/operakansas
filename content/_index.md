@@ -3,6 +3,8 @@ title: Opera Kansas
 description: ''
 
 ---
+![](/uploads/20431413_1912475379008552_4956119913992074772_n.png)
+
 # _Amahl and the Night Visitors_ a great success!
 
 Opera Kansas' 30th anniversary performance of _Amahl and the Night Visitors_ was enjoyed by the enthusiastic audience filling Church of the Magdalen on the afternoon of January 6th. The audience was treated to the solid performance that has made _Amahl and the Night Visitors_ a Wichita and Opera Kansas tradition for three decades.
