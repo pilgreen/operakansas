@@ -7,15 +7,14 @@ description: ''
 
 <h2 style="padding-top: 2rem;">AMAHL AND THE NIGHT VISITORS <small>by Gian Carlo Menotti</small></h2>
 
-  
-Gian Carlo Menotti's beloved epiphany opera returns for it's 30th anniversary production to the Opera Kansas stage. The visit of the three kings to the humble home of Amahl and his mother that changes their lives will be brought to life on the Epiphany feast day of January 6, 2019.  
-  
+Gian Carlo Menotti's beloved epiphany opera returns for it's 30th anniversary production to the Opera Kansas stage. The visit of the three kings to the humble home of Amahl and his mother that changes their lives will be brought to life on the Epiphany feast day of January 6, 2019.
+
 January 6, 2019  
 3:00 PM  
 Catholic Church of the Magdalen  
 12626 E 21st Street  
-Wichita KS, 67206  
-  
+Wichita KS, 67206
+
 This performance will feature Katelyn Mattson Levy as Amahl's Mother, Justin Petersen as Kaspar, Benjamin Winters as Melchior, Steve Kimball as Balthazar and 13 year old boy soprano Noah Sickman as Amahl. The orchestra will be conducted by Kenneth Tysick and features many of the best instrumentalists in the area.
 
 ### [Buy Tickets Now](https://www.brownpapertickets.com/event/3596780)
@@ -31,20 +30,6 @@ Mr. Brewster’s Invigorating Invention is about the history and science of the 
 The music of Anthony R. Green (b. 1984) ranges from works for solo instruments and voice to large scale ensemble pieces and multimedia productions. His works have been performed and featured in festivals in over 20 countries, as well as broadcast on national, international, and online streaming radio. An active pianist, Green has worked with student and professional composers alike for premieres or performances of new music. He has performed across the USA, as well as in the United Kingdom, the Netherlands, France, Cyprus, Israel, Germany, and South Korea.
 
 When not composing or performing, Green is the associate artistic director of Castle of our Skins, a Boston-based concert and education series organization dedicated to celebrating Black artistry through music. He received a Bachelor of Music degree from Boston University, and a Master of Music degree from the New England Conservatory, and has been a resident artist at Escape to Create (Florida), the Virginia Center for the Creative Arts, the Kimmel Harding Nelson Center for the Arts (Nebraska), the Visby International Centre for Composers (Sweden), Space/Time at Cove Park (Scotland), atelier:performance (Germany), and the Bemis Center for Contemporary Arts (Nebraska).
-
-***
-
-# Introducing Ashley Winters
-
-<aside style="max-width: 250px">
-<img src="/img/ashley-winters.jpg" width="400" height="600" alt="Ashley Winters" />
-</aside>
-
-Opera Kansas is proud to introduce Ashley Winters as the new managing Artistic Director for our 32nd season. Ashley has been performing, conducting and teaching professionally for the past 18 years. She also has extensive experience working in the technical and production fields of the music industry as a small business owner of a production company for ten years.
-
-Ashley is a true believer in the six mission statements of Opera Kansas. She believes the organization can provide an energetic home for new performances, in new productions, in new environments supported by classic repertoire that will provide memorable experiences for both performers and patrons. She is committed to continuing our tradition of outreach into schools, senior living facilities and the public at large while maintaining fiscal responsibility.
-
-Ashley received her Master of Music degree in Vocal Performance with Honors from the University of Kansas and a Bachelor of Music degree in Vocal Performance from the Wheaton College Conservatory of Music. Ashley is a founding member of the nationally acclaimed choral octet Octarium and sings with the Wichita Chamber Chorale. She is also the Director of Music and Choirs at St. Stephen’s Episcopal Church, maintains a private studio and is a vocal consultant at Wichita Collegiate School.
 
 ***
 
