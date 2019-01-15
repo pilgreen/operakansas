@@ -2,6 +2,8 @@
 date = "2019-01-15T01:44:06+00:00"
 description = ""
 title = "Our People"
+[menu.main]
+weight = 4
 
 +++
 # Ashley Winters, Managing Artistic Director
