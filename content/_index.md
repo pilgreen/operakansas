@@ -3,9 +3,6 @@ title: Opera Kansas
 description: ''
 
 ---
-<a href="https://mkt.com/opera-kansas" class="sq-embed-button" data-style-background-color="#bf0010" data-style-width="160px" data-style-height="46px">DONATE</a>
-
-<script src="https://cdn.sq-api.com/market/embed.js" charset="utf-8"></script>
 
 ### ![](/uploads/AmahlFacebookBanner.jpg)
 
