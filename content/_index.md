@@ -3,26 +3,21 @@ title: Opera Kansas
 description: ''
 
 ---
+# _Amahl and the Night Visitors_ a great success!
 
-### ![](/uploads/AmahlFacebookBanner.jpg)
+Opera Kansas' 30th anniversary performance of _Amahl and the Night Visitors_ was enjoyed by the enthusiastic audience filling Church of the Magdalen on the afternoon of January 6th. The audience was treated to the solid performance that has made _Amahl and the Night Visitors_ a Wichita and Opera Kansas tradition for three decades.
 
-<h2 style="padding-top: 2rem;">AMAHL AND THE NIGHT VISITORS <small>by Gian Carlo Menotti</small></h2>
+![](/uploads/Amahl Mother.jpg)![](/uploads/Amahl.jpg)![](/uploads/Amahl Kings.jpg)![](/uploads/Amahl Chorus.jpg)![](/uploads/Amahl Chorus 2.jpg)[Download File](https://www.facebook.com/operakansas/videos/396180867818986/ "Amahl Quartet Video")
 
-Gian Carlo Menotti's beloved epiphany opera returns for it's 30th anniversary production to the Opera Kansas stage. The visit of the three kings to the humble home of Amahl and his mother that changes their lives will be brought to life on the Epiphany feast day of January 6, 2019.
+# Current News
 
-January 6, 2019  
-3:00 PM  
-Catholic Church of the Magdalen  
-12626 E 21st Street  
-Wichita KS, 67206
+### Opera Kansas welcomes new President of the Board of Directors
 
-This performance will feature Katelyn Mattson Levy as Amahl's Mother, Justin Petersen as Kaspar, Benjamin Winters as Melchior, Steve Kimball as Balthazar and 13 year old boy soprano Noah Sickman as Amahl. The orchestra will be conducted by Kenneth Tysick and features many of the best instrumentalists in the area.
+Opera Kansas begins 2019 with a new board president, J. Matthew Leavitt. Mr. Leavitt is excited to step into this new role with energy and determination to ensure the future of Opera Kansas. Matt has been a part of the Wichita art's community for decades. He has sung in several roles for Opera Kansas, most recently as the Page in _Amahl and the Night Visitors_ and is well lauded for his performances in the last several Wichita Bar Shows. Matt is an attorney in Wichita and is a partner at Hulnick, Stang, Gerring, and Leavitt, P.A. Opera Kansas looks forward to Mr. Leavitt's leadership.
 
-### [Buy Tickets Now](https://www.brownpapertickets.com/event/3596780)
+Opera Kansas would also like to thank outgoing president, Virginia Revering. Her steady leadership and willingness to do whatever is needed leaves big shoes to fill. We are thankful that Virginia will remain on the board and we look forward to her next book that is scheduled to be published soon!
 
-***
-
-# Opera Kansas is proud to announce the winner of the 2018 Zepick Modern Opera Competition
+### Opera Kansas is proud to announce the winner of the 2018 Zepick Modern Opera Competition
 
 Opera Kansas is proud to announce Anthony Green’s Mr. Brewster’s Invigorating Invention as the winner of the the Zepick Modern Opera Competition. The competition seeks short operas in English that have a STEAM theme (Science, Technology, Engineering, Art and Mathematics)  that can be used in the Kansas public school system. The Opera Kansas production will be the world premiere of this fascinating new opera that focuses on science and the composer behind the invention.
 
