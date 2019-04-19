@@ -1,7 +1,6 @@
 ---
 label: Standard page
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -14,8 +13,8 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/about.md
-- content/auditions.md
-- content/donations.md
-- content/_index.md
 - content/our-people.md
+- content/_index.md
+- content/about.md
+- content/donations.md
+- content/auditions.md
