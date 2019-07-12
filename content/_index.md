@@ -15,7 +15,7 @@ _![](/uploads/songstothemoonc-calendar.jpg)_
 
 # Opera Kansas announces the 2020 Zepick Modern Opera
 
-In 2016, Opera Kansas, with the patronage of Dr. Lyle and Debi Zepick, created the Zepick Modern Opera Competition. This competition has yielded exciting new chamber operas in 2016 and 2018. Opera Kansas and the Zepicks believe that the next step for this program is to collaboratively create a work with a composer to be premiered in 2020. For composers desiring to be considered for this commission, requests for proposals are now being accepted through September 2, 2019.  Please click [here]() for details and submission requirements.
+In 2016, Opera Kansas, with the patronage of Dr. Lyle and Debi Zepick, created the Zepick Modern Opera Competition. This competition has yielded exciting new chamber operas in 2016 and 2018. Opera Kansas and the Zepicks believe that the next step for this program is to collaboratively create a work with a composer to be premiered in 2020. For composers desiring to be considered for this commission, requests for proposals are now being accepted through September 2, 2019.  Please click ZMOC 2020 button above for details and submission requirements.
 
 # Steady Success
 
