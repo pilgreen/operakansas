@@ -1,6 +1,7 @@
 ---
 title: Opera Kansas
 description: ''
+draft: true
 
 ---
 ![](/uploads/20431413_1912475379008552_4956119913992074772_n.png)
