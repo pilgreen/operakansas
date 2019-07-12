@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 title = "ZMOC 2020"
 
 +++
