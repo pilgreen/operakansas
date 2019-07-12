@@ -14,7 +14,7 @@ fields:
   default: ''
 pages:
 - content/our-people.md
-- content/_index.md
-- content/about.md
 - content/donations.md
 - content/auditions.md
+- content/about.md
+- content/_index.md
