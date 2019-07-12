@@ -3,10 +3,9 @@ disableKinds = ["taxonomyTerm"]
 languageCode = "en-us"
 title = "Opera Kansas"
 [[menu.main]]
-identifier = "donations"
-name = "Donate Now"
-url = "/donations/"
-weight = 1
+name = "ZMOC 2020"
+url = "/zmoc/"
+weight = 6
 [[menu.main]]
 identifier = "auditions"
 name = "Auditions"

@@ -3,6 +3,11 @@ title: Donate to Opera Kansas
 description: Opera Kansas is one of the best investments you can make with your charitable
   donation. Your dollars support local performers that successfully work to develop
   new audiences for this powerful art form.
+menu:
+  main:
+    name: Donate Now
+    identifier: donations
+    weight: 1
 
 ---
 # Donations
