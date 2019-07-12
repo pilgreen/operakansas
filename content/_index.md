@@ -5,6 +5,12 @@ description: ''
 ---
 ![](/uploads/20431413_1912475379008552_4956119913992074772_n.png)
 
+# Songs to the Moon
+
+Opera Kansas embarks on a sonorous celebration of the 50th Anniversary of the Apollo 11 moon landing. This one hour program highlights some of the greatest songs about the moon from Dvorak's _Song to the Moon_ and Hahn's _L'heure Exquise_ to _Fly Me to the Moon_ and  _Moon River._ This program is sure to delight audiences throughout South Central Kansas with little known facts about the Apollo missions, a multi-media presentation, and beautiful music.
+
+_![](/uploads/songstothemoonc-calendar.jpg)_
+
 # _Amahl and the Night Visitors_ a great success!
 
 Opera Kansas' 30th anniversary performance of _Amahl and the Night Visitors_ was enjoyed by the enthusiastic audience filling Church of the Magdalen on the afternoon of January 6th. The audience was treated to the solid performance that has made _Amahl and the Night Visitors_ a Wichita and Opera Kansas tradition for three decades.
