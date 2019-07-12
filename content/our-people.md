@@ -27,7 +27,7 @@ J. MATTHEW LEAVITT, ESQ
 **Vice President** GINA GOUCHENOUR
 
 **Treasurer**  
-Jordan Sickman
+JORDAN SICKMAN
 
 **Secretary**  
 REBECCA WHITE*
