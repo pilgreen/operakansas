@@ -7,11 +7,11 @@ description: ''
 
 # What's New
 
-## Songs to the Moon
+## Open Auditions September 7, 2019
 
-Opera Kansas embarks on a sonorous celebration of the 50th Anniversary of the Apollo 11 moon landing. This one hour program highlights some of the greatest songs about the moon from Dvorak's _Song to the Moon_ and Hahn's _L'heure Exquise_ to _Fly Me to the Moon_ and  _Moon River._ This program is sure to delight audiences throughout South Central Kansas with little known facts about the Apollo missions, a multi-media presentation, and beautiful music.
+Auditions are available to all ages and levels of experience. Please see audition sign up for all details.
 
-_![](/uploads/songstothemoonc-calendar.jpg)_
+[https://www.signupgenius.com/go/5080845ADA72CA0FB6-open1](https://www.signupgenius.com/go/5080845ADA72CA0FB6-open1 "https://www.signupgenius.com/go/5080845ADA72CA0FB6-open1")
 
 # Opera Kansas announces the 2020 Zepick Modern Opera
 
@@ -19,7 +19,13 @@ In 2016, Opera Kansas, with the patronage of Dr. Lyle and Debi Zepick, created t
 
 # Steady Success
 
-## _Amahl and the Night Visitors_ a great success!
+## Songs to the Moon
+
+Opera Kansas embarks on a sonorous celebration of the 50th Anniversary of the Apollo 11 moon landing. This one hour program highlights some of the greatest songs about the moon from Dvorak's _Song to the Moon_ and Hahn's _L'heure Exquise_ to _Fly Me to the Moon_ and  _Moon River._ This program is sure to delight audiences throughout South Central Kansas with little known facts about the Apollo missions, a multi-media presentation, and beautiful music.
+
+_![](/uploads/songstothemoonc-calendar.jpg)_
+
+# _Amahl and the Night Visitors_ a great success!
 
 Opera Kansas' 30th anniversary performance of _Amahl and the Night Visitors_ was enjoyed by the enthusiastic audience filling Church of the Magdalen on the afternoon of January 6th. The audience was treated to the solid performance that has made _Amahl and the Night Visitors_ a Wichita and Opera Kansas tradition for three decades.
 
