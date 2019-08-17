@@ -13,9 +13,9 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/our-people.md
 - content/auditions.md
 - content/_index.md
 - content/donations.md
 - content/ZMOC.md
-- content/our-people.md
 - content/about.md

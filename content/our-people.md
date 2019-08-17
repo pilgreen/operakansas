@@ -24,7 +24,9 @@ ASHLEY WINTERS
 **President**  
 J. MATTHEW LEAVITT, ESQ
 
-**Vice President** GINA GOUCHENOUR
+**Vice President** 
+
+GINA GOUCHENOUR
 
 **Treasurer**  
 JORDAN SICKMAN
