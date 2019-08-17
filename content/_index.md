@@ -7,7 +7,7 @@ description: ''
 
 # What's New
 
-## Open Auditions September 7, 2019
+## **Open Auditions September 7, 2019**
 
 Auditions are available to all ages and levels of experience. Please see audition sign up for all details.
 
