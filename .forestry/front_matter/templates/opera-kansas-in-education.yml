@@ -13,8 +13,8 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/_index.md
 - content/about.md
+- content/_index.md
 - content/our-people.md
 - content/auditions.md
 - content/donations.md
