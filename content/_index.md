@@ -7,11 +7,7 @@ description: ''
 
 # What's New
 
-## **Open Auditions September 7, 2019**
-
-Auditions are available to all ages and levels of experience. Please see audition sign up for all details.
-
-[https://www.signupgenius.com/go/5080845ADA72CA0FB6-open1](https://www.signupgenius.com/go/5080845ADA72CA0FB6-open1 "https://www.signupgenius.com/go/5080845ADA72CA0FB6-open1")
+![](/uploads/Season Teaser.png)
 
 # Opera Kansas announces the 2020 Zepick Modern Opera
 
