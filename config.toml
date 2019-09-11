@@ -3,6 +3,9 @@ disableKinds = ["taxonomyTerm"]
 languageCode = "en-us"
 title = "Opera Kansas"
 [[menu.main]]
+name = "Our Shows"
+weight = 2
+[[menu.main]]
 identifier = "education"
 name = "OPERAtion EDucation"
 url = "/education/"

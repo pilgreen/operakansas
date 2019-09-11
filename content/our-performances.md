@@ -1,9 +1,6 @@
 +++
 description = "2019-2020 Performance calendar and show information"
 title = "Our Performances"
-[menu.main]
-name = "Our Shows"
-weight = 2
 
 +++
 ![](/uploads/RH Grand Night FB.png)
