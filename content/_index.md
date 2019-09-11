@@ -5,9 +5,11 @@ description: ''
 ---
 ![](/uploads/20431413_1912475379008552_4956119913992074772_n.png)
 
-# What's New
-
 ![](/uploads/Season Teaser.png)
+
+# [BUY TICKETS NOW](https://bpt.me/4325577 "AGNFS")
+
+# 
 
 # Opera Kansas announces the 2020 Zepick Modern Opera
 
