@@ -9,7 +9,13 @@ description: ''
 
 # [BUY TICKETS NOW](https://bpt.me/4325577 "AGNFS")
 
-# 
+NOVEMBER 8 and 9, 2019
+
+Rodgers and Hammerstein's
+
+# A GRAND NIGHT FOR SINGING
+
+## In other news...
 
 # Opera Kansas announces the 2020 Zepick Modern Opera
 
