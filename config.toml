@@ -8,10 +8,6 @@ name = "OPERAtion EDucation"
 url = "/education/"
 weight = 3
 [[menu.main]]
-name = "Our Shows"
-url = "/shows/"
-weight = 2
-[[menu.main]]
 name = "ZMOC 2020"
 url = "/zmoc/"
 weight = 4
