@@ -4,17 +4,20 @@ draft = true
 title = "Our Performances"
 
 +++
-                 ![](/uploads/RH Grand Night FB.png)
+  
+![](/uploads/RH Grand Night FB.png)
 
-##                        [Buy Tickets Now!](https://bpt.me/4325577?fbclid=IwAR1ns3Q5h4QGDs4gY4x9AJcX0iKY9CQJSIwl7e-cFw7rIoSis0wuLQzjhsI "AGNFS TICKETS")
+## [Buy Tickets Now!](https://bpt.me/4325577?fbclid=IwAR1ns3Q5h4QGDs4gY4x9AJcX0iKY9CQJSIwl7e-cFw7rIoSis0wuLQzjhsI "AGNFS TICKETS")
 
 ## Rodgers & Hammerstein’s
 
 # A GRAND NIGHT FOR SINGING
 
-                     Music by                                                   Lyrics by
+Music by                                                   
 
-### RICHARD RODGERS OSCAR HAMMERSTEIN II
+## RICHARD RODGERS 
+
+## OSCAR HAMMERSTEIN II
 
 Musical Arrangements by
 
