@@ -13,10 +13,10 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/auditions.md
 - content/our-performances.md
 - content/_index.md
 - content/about.md
 - content/our-people.md
-- content/auditions.md
 - content/donations.md
 - content/ZMOC.md
