@@ -5,7 +5,7 @@ menu:
   main:
     name: Our Story
     identifier: about
-    weight: 5
+    weight: 6
 
 ---
 # About Opera Kansas
