@@ -65,4 +65,4 @@ Crown Uptown Theatre
 
 Respondez S'il Vous Plait: Coming Soon
 
-In 1880, Frederick discovered, much to his dismay, that his 21st birthday and his 21st year were not one and the same. But in 2020, we get to celebrate the momentous occasion of Fredrick's 40th birthday. Come P-arrgh-ty with Opera Kansas, Major Stanley, his daughters and of course the scalawag Pirate King and his rollicking band of scurvy dogs.
+In 1880, Frederick discovered, much to his dismay, that his 21st birthday and his 21st year were not one and the same. But in 2020, we get to celebrate the momentous occasion of Fredrick's 40th birthday. Pour the pirate sherry and come P-arrgh-ty with Opera Kansas, Major Stanley, his daughters and of course the scalawag Pirate King and his rollicking band of scurvy dogs.
