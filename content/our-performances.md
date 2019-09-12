@@ -1,8 +1,7 @@
 +++
 description = "2019-2020 Performance calendar and show information"
-title = "Our Performances"
+title = "Our Shows"
 [menu.main]
-name = "Our Shows"
 weight = 2
 
 +++
@@ -50,4 +49,20 @@ For two nights only, November 8 and 9, Opera Kansas will bring to the stage all 
 
 A GRAND NIGHT FOR SINGING is presented through special arrangement with R & H Theatricals:[ www.rnh.com.](http://www.rnh.com )
 
-#### 
+### ![](/uploads/FINAL Pirates FB.png)
+
+You are cordially invited to celebrate with Opera Kansas
+
+The 40th Birthday of dear Frederick.
+
+February 29, 2020
+
+7:00 PM
+
+Crown Uptown Theatre
+
+3207 E Douglas Avenue
+
+Respondez S'il Vous Plait: Coming Soon
+
+In 1880, Frederick discovered, much to his dismay, that his 21st birthday and his 21st year were not one and the same. But in 2020, we get to celebrate the momentous occasion of Fredrick's 40th birthday. Come P-arrgh-ty with Opera Kansas, Major Stanley, his daughters and of course the scalawag Pirate King and his rollicking band of scurvy dogs.
