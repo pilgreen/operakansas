@@ -49,6 +49,10 @@ For two nights only, November 8 and 9, Opera Kansas will bring to the stage all 
 
 A GRAND NIGHT FOR SINGING is presented through special arrangement with R & H Theatricals:[ www.rnh.com.](http://www.rnh.com )
 
+This production has been generously underwritten by a gift from
+
+Hulnik, Stang, Gering, and Leavitt, P.A.
+
 ### ![](/uploads/FINAL Pirates FB.png)
 
 You are cordially invited to celebrate with Opera Kansas
