@@ -66,3 +66,9 @@ Crown Uptown Theatre
 Respondez S'il Vous Plait: Coming Soon
 
 In 1880, Frederick discovered, much to his dismay, that his 21st birthday and his 21st year were not one and the same. But in 2020, we get to celebrate the momentous occasion of Fredrick's 40th birthday. Pour the pirate sherry and come P-arrgh-ty with Opera Kansas, Major Stanley, his daughters and of course the scalawag Pirate King and his rollicking band of scurvy dogs.
+
+![](/uploads/FINAL Mr. Twister.png)
+
+Mr. Twister and the Tale of Tornado Alley, a brand new opera composed by Marc Hoffeditz, tells the tale of a family reunion between the North Wind and the South Wind as observed by a meteorologist and storm chaser, Mr. Twister, and his nephew. The story weaves together the science behind the formation of tornadoes and instruction on severe weather safety. Told via colorful characters, memorable melody, and approachable meteorological facts, this tale will appeal to a wide audience and maybe save a life or two. Opera Kansas is the winner of a Mid-America Arts Alliance Innovations Grant to bring the world premiere of this opera to the greater Wichita community. Opera Kansas is excited to partner with Exploration Place and the National Weather Service Wichita to bring to life this interactive and multi-sensory learning experience.
+
+Performance Dates and Times will be released soon!
