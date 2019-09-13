@@ -9,11 +9,13 @@ description: ''
 
 # [BUY TICKETS NOW](https://bpt.me/4325577 "AGNFS")
 
-NOVEMBER 8 and 9, 2019
+![](/uploads/RH Grand Night FB.png)
 
-Rodgers and Hammerstein's
+##### This performance is generously underwritten by 
 
-# A GRAND NIGHT FOR SINGING
+Hulnick, Stang, Gering, and Leavitt, P.A.
+
+![](/uploads/hsgl-cdl-horiz-white.jpg)
 
 ## In other news...
 
