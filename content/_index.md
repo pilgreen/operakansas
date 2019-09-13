@@ -11,6 +11,8 @@ description: ''
 
 ![](/uploads/RH Grand Night FB.png)
 
+A GRAND NIGHT FOR SINGING is presented through special arrangement with R & H Theatricals:[ www.rnh.com.](http://www.rnh.com/)
+
 ##### This performance is generously underwritten by 
 
 Hulnick, Stang, Gering, and Leavitt, P.A.
