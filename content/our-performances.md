@@ -51,7 +51,7 @@ A GRAND NIGHT FOR SINGING is presented through special arrangement with R & H Th
 
 **This production has been generously underwritten by a gift from**
 
-### Hulnick, Stang, Gering, and Leavitt, P.A.
+### **Hulnick, Stang, Gering, and Leavitt, P.A.**
 
 ![](/uploads/hsgl-cdl-horiz-white.jpg)
 
