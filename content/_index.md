@@ -5,7 +5,11 @@ description: ''
 ---
 ![](/uploads/20431413_1912475379008552_4956119913992074772_n.png)
 
-![](/uploads/Season Teaser.png "Season Teaser")
+# And the WINNER of the 3rd Zepick Modern Opera Competition is...
+
+![](/uploads/LiSA DESPAIN & RACHEL J. PETERS.png)
+
+# ![](/uploads/Season Teaser.png "Season Teaser")
 
 # [BUY TICKETS NOW](https://bpt.me/4325577 "AGNFS")
 
