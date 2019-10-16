@@ -10,7 +10,7 @@ OPERA KANSAS ANNOUNCES WINNER OF $25,000 PRIZE FOR THE
 
 2020 ZEPICK MODERN OPERA COMPETITION
 
-Opera Kansas is proud to announce that _Staggerwing_ by Lisa DeSpain, composer, and Rachel J. Peters, librettist, has been chosen as the winner of the $25,000 prize in the 3rd Zepick Modern Opera Competition (ZMOC.) This year’s competition received 128 submissions from composers all over the world, including all six continents, 18 countries and 35 states in the US. The competition asked composers to bring a story to life addressing the topic that “the unexamined life is not worth living” and encouraging audience members to be a positive change in their community.
+Opera Kansas is proud to announce that _Staggerwing_ by Lisa DeSpain, composer, and Rachel J. Peters, librettist, has been chosen as the winner of the $25,000 prize in the 2020 Zepick Modern Opera Competition (ZMOC.) This year’s competition received 128 submissions from composers all over the world, including all six continents, 18 countries and 35 states in the US. The competition asked composers to bring a story to life addressing the topic that “the unexamined life is not worth living” and encouraging audience members to be a positive change in their community.
 
 _Staggerwing_ is a dramatization of the historical flight of Louise Thaden and her co-pilot, Blanche Noyes, as they compete and win 1936 Bendix Trophy Race; the first year the prestigious aviation competition allowed all-female teams to compete. The Bendix Trophy was a grueling transcontinental race fraught with danger as competitors pushed the boundaries of aeronautics.
 
@@ -32,11 +32,11 @@ The 2020 Zepick Modern Opera Competition Committee
 
 ![](/uploads/garvey.jpg)Michael Garvey, President, Builders Inc.
 
-![](/uploads/download-3.jpg)Dr. Timothy Jones
+![](/uploads/download-3.jpg)Dr. Timothy Jones, Visiting Asst. Professor of Violin, Wichita State University and Associate Concertmaster, Wichita Symphony Orchestra
 
 ![](/uploads/John-Leavitt-2014-conducting1-400x400.jpg)Dr. John Leavitt, Composer/Conductor   [johnleavittmusic.com](http://johnleavittmusic.com/)
 
-![](/uploads/Schloneger-Matt.jpg)Dr. Matthew Schloneger
+![](/uploads/Schloneger-Matt.jpg)Dr. Matthew Schloneger, Associate Professor of Voice, Friends University,
 
 ![](/uploads/Ashley Winters Head Shot small-1.jpg)Ashley Winters, Managing Artistic Director, Opera Kansas
 
