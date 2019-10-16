@@ -6,7 +6,7 @@ title = "ZMOC 2020"
 +++
 ![](/uploads/LiSA DESPAIN & RACHEL J. PETERS.png)
 
-OPERA KANSAS ANNOUNCES WINNER OF $25,000 PRIZE FOR THE 
+OPERA KANSAS ANNOUNCES WINNER OF $25,000 PRIZE FOR THE
 
 2020 ZEPICK MODERN OPERA COMPETITION
 
@@ -22,9 +22,25 @@ The composer, Lisa DeSpain, was awarded an OPERA America Discovery Grant for Fem
 
 The librettist, Rachel J. Peters, has been the composer and/or librettist for operas performed by Sarasota Opera, Fort Worth Opera, Oberlin Conservatory, Boston Opera Collaborative, Utah Opera, Atlanta Opera, and Rhymes with Opera. She has also written works for Albany Symphony’s Dogs of Desire and The AIDS Quilt Songbook. Peters received a M.F.A. in Musical Theater Writing from New York University Tisch School of the Arts (‘05) and a double B.A. in Music and Theater Arts from Brandeis University (‘99.)
 
-The ZMOC is an international competition that is held by Opera Kansas every other year. The mission is to find new operatic works for classical voice that inspire modern audiences. This year’s competition committee members includes Charleen Ayers, singer/actress, Ken Gale, composer/playwright, Michael H. Garvey, President, Builders Incorporated, Dr. Timothy D. Jones, Visiting Asst. Professor of Violin, Wichita State University and Associate Concertmaster, Wichita Symphony Orchestra, Dr. John Leavitt, composer/conductor, Dr. Matthew Schloneger, Associate Professor of Voice, Friends University, Rebecca Zepick White, Ashley Winters, Managing Artistic Director, Opera Kansas, Dr. Lyle Zepick.
+The ZMOC is an international competition that is held by Opera Kansas every other year. The mission is to find new operatic works for classical voice that inspire modern audiences. Dr. Lyle Zepick and his wife, Debi Johnson Zepick are the primary sponsors of the ZMOC, along with support from the Wichita Arts Council and the Kansas Arts Commission. The production of Staggerwing will debut in September 2020, as part of Dr. Zepick’s 70th birthday celebration.
 
-Dr. Lyle Zepick and his wife, Debi Johnson Zepick are the primary sponsors of the ZMOC, along with support from the Wichita Arts Council and the Kansas Arts Commission. The production of Staggerwing will debut in September 2020, as part of Dr. Zepick’s 70th birthday celebration.
+The 2020 Zepick Modern Opera Competition Committee
+
+![](/uploads/wichita-grand-opera-Charleen-Ayers-headshot-239x282-c.jpg)Charleen Ayers, Singer/Actress
+
+![](/uploads/Gale.jpg)Ken Gale, Composer/Playwright
+
+![](/uploads/garvey.jpg)Michael Garvey, President, Builders Inc.
+
+![](/uploads/download-3.jpg)Dr. Timothy Jones
+
+![](/uploads/John-Leavitt-2014-conducting1-400x400.jpg)Dr. John Leavitt
+
+![](/uploads/Schloneger-Matt.jpg)Dr. Matthew Schloneger
+
+![](/uploads/Ashley Winters Head Shot small-1.jpg)Ashley Winters, Managing Artistic Director, Opera Kansas
+
+![](/uploads/image-asset.jpg)Dr. Lyle Zepick
 
 # **International Call for Proposals for the 2020 Zepick Modern Opera Commission**
 
