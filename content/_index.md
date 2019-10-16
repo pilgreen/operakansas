@@ -3,14 +3,15 @@ title: Opera Kansas
 description: ''
 
 ---
-
 ![](/uploads/20431413_1912475379008552_4956119913992074772_n.png)
 
 # And the WINNER of the 3rd Zepick Modern Opera Competition is...
 
 ![](/uploads/LiSA DESPAIN & RACHEL J. PETERS.png)
 
-# 
+# World Premiere September 2020
+
+September 8 and 9, 2019
 
 # [BUY TICKETS NOW](https://bpt.me/4325577 "AGNFS")
 
