@@ -1,8 +1,31 @@
 +++
 description = ""
+draft = true
 title = "ZMOC 2020"
 
 +++
+![](/uploads/LiSA DESPAIN & RACHEL J. PETERS.png)
+
+OPERA KANSAS ANNOUNCES WINNER OF $25,000 PRIZE FOR THE 
+
+2020 ZEPICK MODERN OPERA COMPETITION
+
+Opera Kansas is proud to announce that _Staggerwing_ by Lisa DeSpain, composer, and Rachel J. Peters, librettist, has been chosen as the winner of the $25,000 prize in the 3rd Zepick Modern Opera Competition (ZMOC.) This year’s competition received 128 submissions from composers all over the world, including all six continents, 18 countries and 35 states in the US. The competition asked composers to bring a story to life addressing the topic that “the unexamined life is not worth living” and encouraging audience members to be a positive change in their community.
+
+_Staggerwing_ is a dramatization of the historical flight of Louise Thaden and her co-pilot, Blanche Noyes, as they compete and win 1936 Bendix Trophy Race; the first year the prestigious aviation competition allowed all-female teams to compete. The Bendix Trophy was a grueling transcontinental race fraught with danger as competitors pushed the boundaries of aeronautics.
+
+_Staggerwing_ will also highlight the contributions of Olive Ann Beech of Wichita’s Beech Aircraft Company as a powerful advocate for women in aviation. Olive Ann Beech insisted that female pilots debut the company’s new Staggerwing biplane in the Bendix Trophy Race and despite fierce objections, engaged Thaden and Noyes.
+
+_Staggerwing_ will blend the music of the 1930s - blues, syncopated jazz and Tin Pan Alley song, with classical voice and opera.
+
+The composer, Lisa DeSpain, was awarded an OPERA America Discovery Grant for Female Composers in 2018. Other awards include a Copland House Residency, a Dramatists Guild Foundation Fellowship and the ASCAP Commission Honoring the Duke Ellington Centennial. DeSpain has been commissioned by Utah Opera, The United States Air Force Band of Flight, [Cassatt String Quartet,](http://www.cassattquartet.com/) [Liz Lerman Dance Exchange,](http://danceexchange.org/) [New York Choral Society](http://www.nychoral.org/), [New Haven Symphony Orchestra,](https://newhavensymphony.org/) and the women’s choir, [Bella Voce](http://www.bellavocereno.org/). She received her Master of Music in Jazz Piano Performance at Manhattan School of Music (‘97) and Bachelor of Music in Composition at the University of North Texas (‘91).
+
+The librettist, Rachel J. Peters, has been the composer and/or librettist for operas performed by Sarasota Opera, Fort Worth Opera, Oberlin Conservatory, Boston Opera Collaborative, Utah Opera, Atlanta Opera, and Rhymes with Opera. She has also written works for Albany Symphony’s Dogs of Desire and The AIDS Quilt Songbook. Peters received a M.F.A. in Musical Theater Writing from New York University Tisch School of the Arts (‘05) and a double B.A. in Music and Theater Arts from Brandeis University (‘99.)
+
+The ZMOC is an international competition that is held by Opera Kansas every other year. The mission is to find new operatic works for classical voice that inspire modern audiences. This year’s competition committee members includes Charleen Ayers, singer/actress, Ken Gale, composer/playwright, Michael H. Garvey, President, Builders Incorporated, Dr. Timothy D. Jones, Visiting Asst. Professor of Violin, Wichita State University and Associate Concertmaster, Wichita Symphony Orchestra, Dr. John Leavitt, composer/conductor, Dr. Matthew Schloneger, Associate Professor of Voice, Friends University, Rebecca Zepick White, Ashley Winters, Managing Artistic Director, Opera Kansas, Dr. Lyle Zepick.
+
+Dr. Lyle Zepick and his wife, Debi Johnson Zepick are the primary sponsors of the ZMOC, along with support from the Wichita Arts Council and the Kansas Arts Commission. The production of Staggerwing will debut in September 2020, as part of Dr. Zepick’s 70th birthday celebration.
+
 # **International Call for Proposals for the 2020 Zepick Modern Opera Commission**
 
 **Expiration of Opportunity: September 2, 2019**
