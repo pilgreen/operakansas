@@ -34,7 +34,7 @@ The 2020 Zepick Modern Opera Competition Committee
 
 ![](/uploads/download-3.jpg)Dr. Timothy Jones
 
-![](/uploads/John-Leavitt-2014-conducting1-400x400.jpg)Dr. John Leavitt
+![](/uploads/John-Leavitt-2014-conducting1-400x400.jpg)Dr. John Leavitt, Composer/Conductor   [johnleavittmusic.com](http://johnleavittmusic.com/)
 
 ![](/uploads/Schloneger-Matt.jpg)Dr. Matthew Schloneger
 
