@@ -5,7 +5,7 @@ description: ''
 ---
 ![](/uploads/20431413_1912475379008552_4956119913992074772_n.png)
 
-# And the WINNER of the 3rd Zepick Modern Opera Competition is...
+# And the WINNER of the 2020 Zepick Modern Opera Competition is...
 
 ![](/uploads/LiSA DESPAIN & RACHEL J. PETERS.png)
 
