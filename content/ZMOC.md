@@ -40,7 +40,7 @@ The 2020 Zepick Modern Opera Competition Committee
 
 ![](/uploads/Ashley Winters Head Shot small-1.jpg)Ashley Winters, Managing Artistic Director, Opera Kansas
 
-Rebecca Zepick White
+![](/uploads/IMG_6026.jpeg)Rebecca Zepick White
 
 ![](/uploads/image-asset.jpg)Dr. Lyle Zepick
 
