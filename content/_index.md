@@ -15,15 +15,13 @@ Wichita Center for Performing Arts
 
 9112 E Central Avenue
 
-Featuring: 
+Featuring:
 
-Marial Mortimer, Morgan Buie, Leah Heathcote-Osburn, Chad R. Ingram, and Panya Amphone-Suh. 
+Marial Mortimer, Morgan Buie, Leah Heathcote-Osburn, Chad R. Ingram, and Panya Amphone-Suh.
 
 This wonderful review features all your favorite tunes from your most beloved R & H musicals.  Sit back and enjoy the journey through Oklahoma, South Pacific, The Sound of Music, Cinderella, and many more.  You wont want to miss this amazing show available for two nights only.
 
-Get your tickets NOW
-
-[https://operakansas.bpt.me](	https://operakansas.bpt.me "BUY HERE")
+# [CLICK HERE FOR TICKETS](	https://operakansas.bpt.me "tickets")
 
 This performance generously sponsored by a gift from  
 ![](/uploads/hsgl-cdl-horiz-white.jpg)
