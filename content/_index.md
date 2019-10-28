@@ -5,23 +5,36 @@ description: ''
 ---
 ![](/uploads/20431413_1912475379008552_4956119913992074772_n.png)
 
+# [BUY TICKETS NOW](https://bpt.me/4325577 "AGNFS")
+
+![](/uploads/RH Grand Night FB.png)
+
+Be sure to catch our upcoming show November 8 and 9 at 7:00 PM
+
+Wichita Center for Performing Arts
+
+9112 E Central Avenue
+
+Featuring: 
+
+Marial Mortimer, Morgan Buie, Leah Heathcote-Osburn, Chad R. Ingram, and Panya Amphone-Suh. 
+
+This wonderful review features all your favorite tunes from your most beloved R & H musicals.  Sit back and enjoy the journey through Oklahoma, South Pacific, The Sound of Music, Cinderella, and many more.  You wont want to miss this amazing show available for two nights only.
+
+Get your tickets NOW
+
+[https://operakansas.bpt.me](	https://operakansas.bpt.me "BUY HERE")
+
+This performance generously sponsored by a gift from  
+![](/uploads/hsgl-cdl-horiz-white.jpg)
+
+A GRAND NIGHT FOR SINGING is presented through special arrangement with R & H Theatricals:[ www.rnh.com.](http://www.rnh.com/)
+
 # And the WINNER of the 2020 Zepick Modern Opera Competition is...
 
 ![](/uploads/LiSA DESPAIN & RACHEL J. PETERS.png)
 
 # World Premiere September 2020
-
-September 8 and 9, 2019
-
-# [BUY TICKETS NOW](https://bpt.me/4325577 "AGNFS")
-
-![](/uploads/RH Grand Night FB.png)
-
-##### This performance is generously underwritten by
-
-![](/uploads/hsgl-cdl-horiz-white.jpg)
-
-A GRAND NIGHT FOR SINGING is presented through special arrangement with R & H Theatricals:[ www.rnh.com.](http://www.rnh.com/)
 
 ## In other news...
 
