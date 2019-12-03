@@ -11,19 +11,6 @@ description: ''
 
 # [**_Donate Now_**](https://mkt.com/opera-kansas?square_lead=button)
 
-![](/uploads/RH Grand Night FB.png)
-
-Featuring:
-
-Marial Mortimer, Morgan Buie, Leah Heathcote-Osburn, Chad R. Ingram, and Panya Amphone-Suh.
-
-This wonderful review features all your favorite tunes from your most beloved R & H musicals.  Sit back and enjoy the journey through Oklahoma, South Pacific, The Sound of Music, Cinderella, and many more.  You wont want to miss this amazing show available for two nights only.
-
-This performance generously sponsored by a gift from  
-![](/uploads/hsgl-cdl-horiz-white.jpg)
-
-A GRAND NIGHT FOR SINGING is presented through special arrangement with R & H Theatricals:[ www.rnh.com.](http://www.rnh.com/)
-
 # And the WINNER of the 2020 Zepick Modern Opera Competition is...
 
 ![](/uploads/LiSA DESPAIN & RACHEL J. PETERS.png)
