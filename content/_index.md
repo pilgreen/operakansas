@@ -7,27 +7,17 @@ description: ''
 
 ![](/uploads/b407b9da-21e4-4b04-9179-78db76a11e8d.png)
 
-#          The Big Day Is Here
-
 # #GivingTuesday
 
-# [Donate Now](https://mkt.com/opera-kansas?square_lead=button)
+# [**_Donate Now_**](https://mkt.com/opera-kansas?square_lead=button)
 
 ![](/uploads/RH Grand Night FB.png)
-
-Be sure to catch our upcoming show November 8 and 9 at 7:00 PM
-
-Wichita Center for Performing Arts
-
-9112 E Central Avenue
 
 Featuring:
 
 Marial Mortimer, Morgan Buie, Leah Heathcote-Osburn, Chad R. Ingram, and Panya Amphone-Suh.
 
 This wonderful review features all your favorite tunes from your most beloved R & H musicals.  Sit back and enjoy the journey through Oklahoma, South Pacific, The Sound of Music, Cinderella, and many more.  You wont want to miss this amazing show available for two nights only.
-
-# [CLICK HERE FOR TICKETS](https://operakansas.bpt.me "tickets")
 
 This performance generously sponsored by a gift from  
 ![](/uploads/hsgl-cdl-horiz-white.jpg)
