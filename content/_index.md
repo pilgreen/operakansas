@@ -3,6 +3,8 @@ title: Opera Kansas
 description: ''
 
 ---
+![](/uploads/20431413_1912475379008552_4956119913992074772_n.png)
+
 ![](/uploads/b407b9da-21e4-4b04-9179-78db76a11e8d.png)
 
 # The Big Day Is Here
