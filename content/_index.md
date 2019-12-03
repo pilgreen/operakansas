@@ -3,9 +3,13 @@ title: Opera Kansas
 description: ''
 
 ---
-![](/uploads/20431413_1912475379008552_4956119913992074772_n.png)
+![](/uploads/b407b9da-21e4-4b04-9179-78db76a11e8d.png)
 
-# [BUY TICKETS NOW](https://bpt.me/4325577 "AGNFS")
+# The Big Day Is Here
+
+# #GivingTuesday
+
+# [Donate Now](https://mkt.com/opera-kansas?square_lead=button)
 
 ![](/uploads/RH Grand Night FB.png)
 
@@ -21,7 +25,7 @@ Marial Mortimer, Morgan Buie, Leah Heathcote-Osburn, Chad R. Ingram, and Panya A
 
 This wonderful review features all your favorite tunes from your most beloved R & H musicals.  Sit back and enjoy the journey through Oklahoma, South Pacific, The Sound of Music, Cinderella, and many more.  You wont want to miss this amazing show available for two nights only.
 
-# [CLICK HERE FOR TICKETS](	https://operakansas.bpt.me "tickets")
+# [CLICK HERE FOR TICKETS](https://operakansas.bpt.me "tickets")
 
 This performance generously sponsored by a gift from  
 ![](/uploads/hsgl-cdl-horiz-white.jpg)
