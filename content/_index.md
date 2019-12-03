@@ -7,7 +7,7 @@ description: ''
 
 ![](/uploads/b407b9da-21e4-4b04-9179-78db76a11e8d.png)
 
-# #GivingTuesday
+# #GivingTuesday Click To 
 
 # [**_Donate Now_**](https://mkt.com/opera-kansas?square_lead=button)
 
