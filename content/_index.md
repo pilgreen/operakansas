@@ -5,11 +5,23 @@ description: ''
 ---
 ![](/uploads/20431413_1912475379008552_4956119913992074772_n.png)
 
-![](/uploads/b407b9da-21e4-4b04-9179-78db76a11e8d.png)
+# Tickets Available Now!
 
-# #GivingTuesday Click To 
+# [CLICK HERE](https://tickets.vendini.com/ticket-software.html?e=b184a0bfbda594d4de2632a625f110d1&t=tix&vqitq=5afb08d8-705c-45a7-b74d-ed40d4bd8967&vqitp=1f492069-9196-4eac-a963-b8974295f547&vqitts=1577721004&vqitc=vendini&vqite=itl&vqitrt=Safetynet&vqith=02229a8a2343bf47d6dcb8972a328250 "Pirates")
 
-# [**_Donate Now_**](https://mkt.com/opera-kansas?square_lead=button)
+# **_![](/uploads/FINAL Pirates FB.png)_**
+
+Don't miss the P-AAARGGH-ty of the year as we celebrate Frederic's 40th! A stellar cast of professionals that hail from Kansas will sail into your leap year to bring to life the zany, topsy turvey world of the Pirates of Penzance. On stage at the historic Crown Uptown Theater for one night only, this rollicking comedy will be sure to delight audiences of all ages.
+
+The Pirates of Penzance
+
+Saturday February 29, 2020
+
+Crown Uptown Theater
+
+Wichita, Kansas
+
+[Buy Tickets Here](https://tickets.vendini.com/ticket-software.html?e=b184a0bfbda594d4de2632a625f110d1&t=tix&vqitq=5afb08d8-705c-45a7-b74d-ed40d4bd8967&vqitp=1f492069-9196-4eac-a963-b8974295f547&vqitts=1577721004&vqitc=vendini&vqite=itl&vqitrt=Safetynet&vqith=02229a8a2343bf47d6dcb8972a328250 "Pirates")
 
 # And the WINNER of the 2020 Zepick Modern Opera Competition is...
 
