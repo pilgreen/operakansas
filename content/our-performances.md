@@ -7,7 +7,7 @@ weight = 2
 +++
 ### ![](/uploads/FINAL Pirates FB.png)
 
-[Buy Tickets Now](https://tickets.vendini.com/ticket-software.html?e=b184a0bfbda594d4de2632a625f110d1&t=tix&vqitq=5afb08d8-705c-45a7-b74d-ed40d4bd8967&vqitp=1f492069-9196-4eac-a963-b8974295f547&vqitts=1577721004&vqitc=vendini&vqite=itl&vqitrt=Safetynet&vqith=02229a8a2343bf47d6dcb8972a328250 "Pirates")
+# [Buy Tickets Now](https://tickets.vendini.com/ticket-software.html?e=b184a0bfbda594d4de2632a625f110d1&t=tix&vqitq=5afb08d8-705c-45a7-b74d-ed40d4bd8967&vqitp=1f492069-9196-4eac-a963-b8974295f547&vqitts=1577721004&vqitc=vendini&vqite=itl&vqitrt=Safetynet&vqith=02229a8a2343bf47d6dcb8972a328250 "Pirates")
 
 You are cordially invited to celebrate with Opera Kansas
 
