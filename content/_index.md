@@ -11,7 +11,7 @@ description: ''
 
 # **_![](/uploads/FINAL Pirates FB.png)_**
 
-Don't miss the P-AAARGGH-ty of the year as we celebrate Frederic's 40th! A stellar cast of professionals that hail from Kansas will sail into your leap year to bring to life the zany, topsy turvey world of the Pirates of Penzance. On stage at the historic Crown Uptown Theater for one night only, this rollicking comedy will be sure to delight audiences of all ages.
+Don't miss the P-AAARGGH-ty of the year as we celebrate Frederic's 40th! A stellar cast of professionals that hail from Kansas will sail into your leap year to bring to life the zany, topsy turvy world of the Pirates of Penzance. On stage at the historic Crown Uptown Theater for one night only, this rollicking comedy will be sure to delight audiences of all ages.
 
 The Pirates of Penzance
 
