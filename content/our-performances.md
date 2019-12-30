@@ -5,57 +5,9 @@ title = "Our Shows"
 weight = 2
 
 +++
-![](/uploads/RH Grand Night FB.png)
-
-## [Buy Tickets Now!](https://bpt.me/4325577?fbclid=IwAR1ns3Q5h4QGDs4gY4x9AJcX0iKY9CQJSIwl7e-cFw7rIoSis0wuLQzjhsI "AGNFS TICKETS")
-
-## Rodgers & Hammerstein’s
-
-# A GRAND NIGHT FOR SINGING
-
-Music by
-
-## RICHARD RODGERS
-
-Lyrics by
-
-## OSCAR HAMMERSTEIN II
-
-Musical Arrangements by
-
-##### FRED WELLS
-
-Orchestration by
-
-##### MICHAEL GIBSON and JONATHAN TUNICK
-
-Conceived by
-
-#### WALTER BOBBIE
-
-###### Originally produced by Roundabout Theater Company, New York City, in 1993
-
-Friday, November 8, 2019 and Saturday, November 9, 2019
-
-7:00 PM
-
-Wichita Center for Performing Arts
-
-9112 E Central Avenue
-
-Wichita, KS 67206
-
-For two nights only, November 8 and 9, Opera Kansas will bring to the stage all your beloved R&H favorites. Taste and imagination, abound in this fresh take on the Rodgers & Hammerstein canon conceived by Tony Award winner Walter Bobbie. Over three decades after the duo's final collaboration, THE SOUND OF MUSIC, took the Great White Way by storm, it was in fact this new R&H musical that opened the 1994 Broadway season with flair and distinction, garnering wildly enthusiastic notices as well as earning two Tony nominations, including Best Musical. R&H probably never imagined 'Shall We Dance?' as a comic pas de deux for a towering beauty and her diminutive admirer, nor did they suspect that one day a lovelorn young lad might pose the musical question, 'How do you solve a problem like Maria?' But that's precisely the kind of invention lavished upon this revue, with innovative musical arrangements including a sultry Andrews Sisters-esque 'I'm Gonna Wash That Man Right Out-a My Hair,' a swingin' 'Honeybun' worthy of the Modernaires, and a jazzy 'Kansas City' which leaves no question about how terrific the remarkable songs of R&H remain.
-
-A GRAND NIGHT FOR SINGING is presented through special arrangement with R & H Theatricals:[ www.rnh.com.](http://www.rnh.com )
-
-**This production has been generously underwritten by a gift from**
-
-### **Hulnick, Stang, Gering, and Leavitt, P.A.**
-
-![](/uploads/hsgl-cdl-horiz-white.jpg)
-
 ### ![](/uploads/FINAL Pirates FB.png)
+
+[Buy Tickets Now](https://tickets.vendini.com/ticket-software.html?e=b184a0bfbda594d4de2632a625f110d1&t=tix&vqitq=5afb08d8-705c-45a7-b74d-ed40d4bd8967&vqitp=1f492069-9196-4eac-a963-b8974295f547&vqitts=1577721004&vqitc=vendini&vqite=itl&vqitrt=Safetynet&vqith=02229a8a2343bf47d6dcb8972a328250 "Pirates")
 
 You are cordially invited to celebrate with Opera Kansas
 
@@ -68,8 +20,6 @@ February 29, 2020
 Crown Uptown Theatre
 
 3207 E Douglas Avenue
-
-Respondez S'il Vous Plait: Coming Soon
 
 In 1880, Frederick discovered, much to his dismay, that his 21st birthday and his 21st year were not one and the same. But in 2020, we get to celebrate the momentous occasion of Fredrick's 40th birthday. Pour the pirate sherry and come P-arrgh-ty with Opera Kansas, Major Stanley, his daughters and of course the scalawag Pirate King and his rollicking band of scurvy dogs.
 
