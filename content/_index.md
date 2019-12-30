@@ -25,6 +25,8 @@ Wichita, Kansas
 
 This Production has been generously underwritten by a gift from the
 
+[Patterson Legal Group](https://pattersonlegalgroup.com/?gclid=CjwKCAiA3abwBRBqEiwAKwICAz3EW5CPkcwB61Eo1RtMkIaQEwUNV9roqflsCiDwoeT75Es3dnJ8uhoCTb0QAvD_BwE "Patterson")
+
 ![](/uploads/5-03-19 - BW Logo.png)
 
 # And the WINNER of the 2020 Zepick Modern Opera Competition is...
