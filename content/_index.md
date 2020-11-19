@@ -7,6 +7,8 @@ description: ''
 
 ##### ![](/uploads/ois-teaser-2.png)
 
+From November 29th through December 24th, Opera Kansas will share holiday music highlighting the classical voice.  Performances will feature the artistry of our local professional and emerging artists from all over Kansas.  In a season where everything is different, spend some time everyday with the fine singers of Opera Kansas because this year Opera Kansas is #OPERAINSEASON
+
 # Welcome back to Opera Kansas because we're...
 
 ![](/uploads/opera-in-fb-announcement.png)
