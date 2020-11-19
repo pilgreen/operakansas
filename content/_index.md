@@ -11,7 +11,7 @@ From November 29th through December 24th, Opera Kansas will share holiday music 
 
 # Welcome back to Opera Kansas because we're...
 
-![](/uploads/opera-in-fb-announcement.png)
+![](/uploads/opera-in-fb-announcement.jpg)
 
 # A COMPLETE SELL OUT!!!
 
