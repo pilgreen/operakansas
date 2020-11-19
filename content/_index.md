@@ -3,8 +3,13 @@ title: Opera Kansas
 description: ''
 
 ---
+# The Classical Voice in Wichita is BACK!
 
-##### 
+##### ![](/uploads/ois-teaser-2.png)
+
+# Welcome back to Opera Kansas because we're...
+
+![](/uploads/opera-in-fb-announcement.png)
 
 # A COMPLETE SELL OUT!!!
 
