@@ -3,12 +3,8 @@ title: Opera Kansas
 description: ''
 
 ---
-![](/uploads/20431413_1912475379008552_4956119913992074772_n.png)
 
-# POSTPONED
-
-##### We are sad to share that due to the COVID-19 pandemic our upcoming World Premiere of Marc Hoffeditz's wonderful children's opera is postponed.  Check back frequently for updates for new performance dates as soon as it is safe and feasible.   
-![](/uploads/FINAL Mr. Twister-1.png)
+##### 
 
 # A COMPLETE SELL OUT!!!
 
