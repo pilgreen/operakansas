@@ -24,19 +24,16 @@ ASHLEY WINTERS
 **President**  
 J. MATTHEW LEAVITT, ESQ
 
-**Vice President** 
-
-GINA GOUCHENOUR
-
-**Treasurer**  
+**Vice President and Treasurer**  
 JORDAN SICKMAN, ESQ
 
 **Secretary**  
-REBECCA WHITE*
+REBECCA ZEPICK WHITE*
 
-**Board of Directors**  
+**Board of Directors**
+
+CHARLEEN AYERS  
 HARALD BOSCHMANN*  
-KRISTIN CHISHAM  
 SHERRI PILGREEN*  
 MATTHEW SCHLONEGER, DMA  
 VIRGINIA REVERING*  
