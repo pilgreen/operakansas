@@ -1,29 +1,10 @@
 +++
-description = "2020-2021 Performance calendar and show information"
+description = "2021 Performance calendar and show information"
 title = "Our Shows"
 [menu.main]
 weight = 2
 
 +++
-# #OPERAINSEASON
-
-### November 29-December 24th
-
-![](/uploads/ois-teaser-2.png)
-
-Join us on Facebook every day of the holiday season for new music from our roster of professional and emerging artists. Let the Opera Kansas songs of the season be with you through classic carols, art song, and arias from the great masterworks of Bach and Handel.
-
-[https://www.facebook.com/operakansas](https://www.facebook.com/operakansas "CLICK HERE")
-
-# The WORLD PREMIERE
-
-# STAGGERWING
-
-# April 2021
-
-WINNER OF THE 2020 ZEPICK MODERN OPERA COMPETITION
-
-![](/uploads/LiSA DESPAIN & RACHEL J. PETERS.png)
 
 # Postponed but will reschedule
 
