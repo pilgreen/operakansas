@@ -2,6 +2,7 @@
 description = "2021 Performance calendar and show information"
 title = "Our Shows"
 [menu.main]
+name = "STAGGERWING"
 weight = 2
 
 +++
