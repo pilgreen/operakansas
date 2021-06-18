@@ -5,11 +5,13 @@ description: ''
 ---
 ![](/uploads/staggerwing-title-card.png)
 
-# Take to the skies 
+# Take to the skies
 
 Opera Kansas is pleased to present the long anticipated winner of the 2020 Zepick Modern Opera Competition July 30-August 1, 2021
 
 [Click here](https://operakansas.org/our-performances/ "Staggerwing") for more information
+
+[WORLD PREMIERE GALA TICKETS HERE](https://staggerwing.bpt.me "Gala Tickets")
 
 # Welcome back to Opera Kansas because we're...
 
