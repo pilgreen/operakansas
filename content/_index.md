@@ -7,11 +7,23 @@ description: ''
 
 # Take to the skies
 
-Opera Kansas is pleased to present the long anticipated winner of the 2020 Zepick Modern Opera Competition July 30-August 1, 2021
+Opera Kansas is pleased to present the long anticipated winner of the 2020 Zepick Modern Opera Competition July 30-August 1, 2021 at the KANSAS AVIATION MUSEUM
+
+## Friday July 30 6:30 PM WORLD PREMIERE GALA
+
+[Tickets available here](https://staggerwing.bpt.me "GALA")
+
+### Saturday July 31 7:30 ENCORE PERFORMANCE
+
+[Tickets available here](	https://bpt.me/5170122 "Saturday")
+
+Matinee Performances are included with Kansas Aviation Museum admission
+
+Saturday July 31 11:00 AM
+
+Sunday August 1 2:00 PM
 
 [Click here](https://operakansas.org/our-performances/ "Staggerwing") for more information
-
-[WORLD PREMIERE GALA TICKETS HERE](https://staggerwing.bpt.me "Gala Tickets")
 
 # Welcome back to Opera Kansas because we're...
 
