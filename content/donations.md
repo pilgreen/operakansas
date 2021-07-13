@@ -16,7 +16,7 @@ Opera Kansas is one of the best investments you can make with your charitable do
 
 Your generosity helps us continue to provide access to opera and operetta to the schools and the public at large.
 
-Please click [DONATE ](https://opera-kansas.square.site/ "https://opera-kansas.square.site/")to access our online giving.
+### Please click [DONATE ](https://opera-kansas.square.site/ "https://opera-kansas.square.site/")to access our online giving.
 
 If you prefer you can mail a check to Opera Kansas, P.O. Box 8811, Wichita, KS 67208.
 
