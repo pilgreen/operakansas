@@ -13,9 +13,13 @@ Opera Kansas is pleased to present the long anticipated winner of the 2020 Zepic
 
 [Tickets available here](https://staggerwing.bpt.me "GALA")
 
+## LIVESTREAM THE WORLD PREMIERE
+
+[Tickets available here](https://www.sparrowlive.com/event-details/world-premiere-gala-of-staggerwing "https://www.sparrowlive.com/event-details/world-premiere-gala-of-staggerwing")
+
 ### Saturday July 31 7:30 ENCORE PERFORMANCE
 
-[Tickets available here](	https://bpt.me/5170122 "Saturday")
+[Tickets available here](https://bpt.me/5170122 "Saturday")
 
 Matinee Performances are included with Kansas Aviation Museum admission
 
