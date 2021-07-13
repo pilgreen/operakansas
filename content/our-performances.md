@@ -11,7 +11,9 @@ weight = 2
 
 Save the date for the World Premiere Gala Event and Performance July 30, 2021 and for Encore Performances July 31 and August 1, 2021.
 
-Tickets for the WORLD PREMIERE GALA are available by clicking here [WORLD PREMIERE GALA](	https://staggerwing.bpt.me "	https://staggerwing.bpt.me")
+Tickets for the WORLD PREMIERE GALA are available by clicking here [WORLD PREMIERE GALA](https://staggerwing.bpt.me "	https://staggerwing.bpt.me")
+
+Livestream the World Premiere GALA if you're unable to be see the show in person. Click here for[ LIVESTREAM tickets](https://www.sparrowlive.com/event-details/world-premiere-gala-of-staggerwing "https://www.sparrowlive.com/event-details/world-premiere-gala-of-staggerwing")
 
 Tickets for the Saturday Evening Encore Performances are available by clicking here[ Saturday Night Staggerwing](https://bpt.me/5170122 "https://bpt.me/5170122")
 
@@ -21,7 +23,7 @@ Matinee Performances are included with admission to the Kansas Aviation Museum
 
 2:00 PM Sunday August 1
 
-In addition to the world premiere performances, Composer Lisa DeSpain and Librettist Rachel J. Peters will be in residence with Opera Kansas from July 25-July 31. Opera Kansas will host a series of outreach events, lectures and other opportunities for conversation with the artists. 
+In addition to the world premiere performances, Composer Lisa DeSpain and Librettist Rachel J. Peters will be in residence with Opera Kansas from July 25-July 31. Opera Kansas will host a series of outreach events, lectures and other opportunities for conversation with the artists.
 
 Visit with Lisa DeSpain and Rachel J. Peters
 
