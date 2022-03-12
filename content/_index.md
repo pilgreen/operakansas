@@ -1,7 +1,6 @@
 ---
 title: Opera Kansas
 description: ''
-draft: true
 
 ---
 ![](/uploads/mr-twister.png)
