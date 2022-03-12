@@ -1,33 +1,16 @@
 ---
 title: Opera Kansas
 description: ''
+draft: true
 
 ---
-![](/uploads/staggerwing-title-card.png)
+![](/uploads/mr-twister.png)
 
-# Take to the skies
+# Mr. Twister World Premiere
 
-Opera Kansas is pleased to present the long anticipated winner of the 2020 Zepick Modern Opera Competition July 30-August 1, 2021 at the KANSAS AVIATION MUSEUM
+Thursday March 17, 2022 at Exploration Place
 
-## Friday July 30 6:30 PM WORLD PREMIERE GALA
-
-[Tickets available here](https://staggerwing.bpt.me "GALA")
-
-## LIVESTREAM THE WORLD PREMIERE
-
-[Tickets available here](https://www.sparrowlive.com/event-details/world-premiere-gala-of-staggerwing "https://www.sparrowlive.com/event-details/world-premiere-gala-of-staggerwing")
-
-### Saturday July 31 7:30 ENCORE PERFORMANCE
-
-[Tickets available here](https://bpt.me/5170122 "Saturday")
-
-Matinee Performances are included with Kansas Aviation Museum admission
-
-Saturday July 31 11:00 AM
-
-Sunday August 1 2:00 PM
-
-[Click here](https://operakansas.org/our-performances/ "Staggerwing") for more information
+With your admission to Exploration Place for the day stop by the Kemper Learning Studio at 11:00 or 1:00 to experience the World Premiere of Mr. Twister and the Tale of Tornado Alley. This new children's opera encourages kids to "Be prepared, Don't be scared" during an unexpected weather event. Follow this fun, 45 minute story, following the sister winds, North and South, as they have a family reunion in the exotic state of Kansas. Featuring a cast of local professional artists, Opera Kansas is excited to finally have the chance to bring this story to life after a two year postponement due to the COVID-19 Pandemic.
 
 # Welcome back to Opera Kansas because we're...
 
